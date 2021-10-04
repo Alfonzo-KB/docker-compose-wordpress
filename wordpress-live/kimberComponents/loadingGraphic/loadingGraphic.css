@@ -1,0 +1,15 @@
+.loading-modal{
+	background-color:  rgba(0, 0, 0, .25);
+	position: fixed;
+	top: 0px;
+	width:  100%;
+	height: 100vh;
+	z-index:  1000;
+	text-align: center;
+}
+.loading-animation{
+	position: relative;
+	margin: auto;
+	margin-top: 25%;
+	margin-bottom: 25%;
+}

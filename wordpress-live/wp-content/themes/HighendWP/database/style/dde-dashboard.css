@@ -1,0 +1,122 @@
+.table-header{
+	text-transform:  uppercase;
+	position: relative;
+	background-color: rgb(50, 179, 203);
+	color: white;
+	padding: 12px;
+	margin: 0px;
+	font-size: 24px;
+	letter-spacing: 4px;
+}
+.table-header h3{
+	color: white;
+	margin: 0px;
+}
+.table-header .dropdown-btn{
+	background-color: #b2e1d8;
+	cursor: pointer;
+	position: absolute;
+	font-weight: bold;
+	top: 6px;
+	right: 6px;
+	padding: 5px 8px;
+	border: 2px solid white;
+}
+.table-header .dropdown-btn:hover{
+	color: #b2e1d8;
+	border: 2px solid #b2e1d8;
+	background-color: white;
+}
+#licenses-assigned-table{
+	margin-bottom: 40px;
+	display: grid;
+	grid-template-columns:  1fr 3fr;
+}
+.dde-product-list{
+	background-color: rgb(242, 250, 248);
+	border: 2px solid #f5f5f5;
+	overflow-x: hidden;
+}
+.dropdown-title{
+	font-size: 18px;
+	text-transform:  uppercase;
+	cursor: pointer;
+	padding: 4px;
+	overflow: hidden;
+}
+.dropdown-title:before{
+	font-size: 12px;
+	content:  "▼  ";
+}
+.dropdown-title:hover{
+	color: rgb(50, 179, 203);
+	padding-left: 8px;
+}
+.dd-container{
+	padding-left: 6px;
+}
+.dropdown-option{
+	cursor: pointer;
+	padding: 4px;
+	overflow: hidden;
+}
+.dropdown-option:hover{
+	color: rgb(50, 179, 203);
+	padding-left: 8px;
+}
+#dde-licenses-table{
+	margin: 0px;
+}
+th{
+	padding: 6px;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+#populated-license{
+	text-transform:  uppercase;
+	text-align: center;
+	color: #e68a1b;
+	padding: 12px;
+	margin: 0px 12px;
+	font-size: 24px;
+	letter-spacing: 4px;
+	border-bottom: 1px solid rgb(50, 179, 203);
+}
+.unassigned-row{
+	position: relative;
+	padding: 8px;
+}
+.unassigned-number{
+	font-weight: bold;
+}
+#assign-button{
+	color: white;
+	border: 0px;
+	padding: 6px 12px;
+	margin: 8px 12px;
+	background-color: #e68a1b;
+	-webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.3); 
+	box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.3);
+}
+.edit-button{
+	-webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.3); 
+	box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.3);
+}
+.unassigned-title{
+	display: inline-flex;
+	letter-spacing: 2px;
+}
+#add-license-form{
+	border: 1px solid #ebebeb;
+	margin-bottom: 30px;
+}
+#add-license-form label{
+	font-size: 18px;
+	position: relative;
+	margin: 6px 12px;
+}
+#add-license-form input{
+	width: 95%;
+	margin: 0% 2.5%;
+}

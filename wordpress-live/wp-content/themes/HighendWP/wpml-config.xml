@@ -1,0 +1,62 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">team</custom-type>
+		<custom-type translate="1">clients</custom-type>
+		<custom-type translate="1">faq</custom-type>
+		<custom-type translate="1">hb_pricing_table</custom-type>
+		<custom-type translate="1">hb_testimonials</custom-type>
+		<custom-type translate="1">portfolio</custom-type>
+		<custom-type translate="1">gallery</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">faq_categories</taxonomy>
+		<taxonomy translate="1">testimonial_categories</taxonomy>
+		<taxonomy translate="1">client_categories</taxonomy>
+		<taxonomy translate="1">team_categories</taxonomy>
+		<taxonomy translate="1">portfolio_categories</taxonomy>
+		<taxonomy translate="1">gallery_categories</taxonomy>
+	</taxonomies>
+	<custom-fields>
+		<custom-field action="copy">hb_gallery_images</custom-field>
+		<custom-field action="copy">pricing_settings</custom-field>
+		<custom-field action="copy">gallery_fw_page_settings</custom-field>
+		<custom-field action="copy">portfolio_standard_page_settings</custom-field>
+		<custom-field action="copy">gallery_standard_page_settings</custom-field>
+		<custom-field action="copy">contact_page_settings</custom-field>
+		<custom-field action="copy">blog_page_settings</custom-field>
+		<custom-field action="copy">blog_grid_page_settings</custom-field>
+		<custom-field action="copy">blog_fw_page_settings</custom-field>
+		<custom-field action="copy">portfolio_settings</custom-field>
+		<custom-field action="copy">portfolio_layout_settings</custom-field>
+		<custom-field action="copy">hb_portfolio_flexslider_images</custom-field>
+	</custom-fields>
+	<admin-texts>
+		<key name="hb_highend_option">
+			<key name="hb_ios_bookmark_title" />
+			<key name="hb_top_header_info_text" />
+			<key name="hb_top_header_map_text" />
+			<key name="hb_header_right_text" />
+			<key name="hb_pre_footer_text" />
+			<key name="hb_pre_footer_button_text" />
+			<key name="hb_copyright_line_text" />
+			<key name="hb_quick_contact_box_title" />
+			<key name="hb_quick_contact_box_text" />
+			<key name="hb_quick_contact_box_button_title" />
+			<key name="hb_comment_form_text" />
+			<key name="hb_archives_title" />
+			<key name="hb_location_1_info" />
+			<key name="hb_location_2_info" />
+			<key name="hb_location_3_info" />
+			<key name="hb_location_4_info" />
+			<key name="hb_location_5_info" />
+			<key name="hb_location_6_info" />
+			<key name="hb_location_7_info" />
+			<key name="hb_location_8_info" />
+			<key name="hb_location_9_info" />
+			<key name="hb_location_10_info" />
+			<key name="hb_404_title" />
+			<key name="hb_404_subtitle" />
+			<key name="hb_404_button_caption" />
+		</key>
+	</admin-texts>
+</wpml-config>

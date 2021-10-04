@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "kimberbell.com",
+  "Id": "b99c039c-b1e4-4597-a914-a53b167ec06d"
+}

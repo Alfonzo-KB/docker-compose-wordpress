@@ -1,0 +1,203 @@
+#hb-icons-modal,
+#hb-icons-modal-overlay {
+    display: none;
+}
+
+#hb-icons-modal.show,
+#hb-icons-modal-overlay.show {
+    display: block;
+}
+
+#hb-icons-modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #323f4a;
+    opacity: 0.6;
+    z-index: 9999;
+}
+
+#hb-icons-modal {
+    position: fixed;
+    width: 700px;
+    max-width: 90%;
+    background-color: #FFF;
+    -webkit-transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+    transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+    border: solid 1px #eee;
+    -webkit-box-shadow: 0 0 60px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 0 60px rgba(0, 0, 0, 0.15);
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate3d(-50%, -50%, 0);
+    transform: translate3d(-50%, -50%, 0);
+    z-index: 99991;
+}
+
+#hb-icons-modal .hb-modal-content {
+    height: 350px;
+    overflow-y: scroll;
+    position: relative;
+}
+
+#hb-icons-modal .hb-modal-content .spinner {
+    visibility: visible;
+    display: none;
+    float: none;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate3d(-50%, -50%, 0);
+    transform: translate3d(-50%, -50%, 0);
+}
+
+#hb-icons-modal.icons-loading .hb-modal-content .spinner {
+    display: block;
+}
+
+#hb-icons-modal.icons-loading .button,
+#hb-icons-modal.icons-loading input {
+    pointer-events: none;
+    opacity: 0.6;
+}
+
+#hb-icons-modal.icons-loading .hb-modal-content ul,
+#hb-icons-modal.icons-loading .hb-modal-content .iconpicker-family-title {
+    display: none;
+}
+
+#hb-icons-modal .iconpicker-family-title {
+    padding: 14px 20px;
+    border-top: solid 1px #eee;
+    border-bottom: solid 1px #eee;
+    font-weight: bold;
+    margin: -1px 0 0 0;
+    background-color: #f9f9f9;
+}
+
+#hb-icons-modal .iconpicker-family-title a {
+    float: right;
+    display: inline-block;
+    text-decoration: none;
+    color: inherit;
+    outline: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    -webkit-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+#hb-icons-modal .iconpicker-family-title a.closed {
+    -webkit-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+
+#hb-icons-modal .iconpicker-family-title > span {
+    margin-left: 8px;
+    font-weight: 300;
+    color: #666;
+}
+
+#hb-icons-modal .hb-modal-content ul {
+    border-left: solid 1px #eee;
+    margin: -1px;
+    padding: 0;
+}
+
+#hb-icons-modal .hb-modal-content li {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 16px;
+    width: 8.33%;
+    height: 44px;
+    line-height: 44px;
+    border-right: solid 1px #eee;
+    float: left;
+    border-bottom: solid 1px #eee;
+    display: inline-block;
+    margin: 0;
+}
+
+#hb-icons-modal .hb-modal-content li:hover {
+    background-color: #eee;
+    cursor: pointer;
+}
+
+#hb-icons-modal .hb-modal-content li.selected-icon {
+    background-color: #1898E9;
+    color: #FFF;
+}
+
+#hb-icons-modal .hb-modal-content li i {
+    line-height: 1;
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+#hb-icons-modal .hb-modal-title .hb-close-icon-modal {
+    text-decoration: none;
+    margin-left: 20px;
+    line-height: 20px;
+}
+
+#hb-icons-modal .hb-modal-title .hb-close-icon-modal span {
+    line-height: 1;
+}
+
+#hb-icons-modal .hb-search-icons {
+    margin-left: auto;
+    border-radius: 3px;
+    vertical-align: middle;
+    padding: 5px 15px;
+}
+
+#hb-icons-modal .hb-modal-title,
+#hb-icons-modal .hb-modal-footer {
+    padding: 12px 20px;
+}
+
+#hb-icons-modal .hb-modal-title {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-bottom: solid 1px rgba(0, 0, 0, 0.07);
+    font-size: 16px;
+}
+
+#hb-icons-modal .hb-modal-footer {
+    text-align: right;
+    border-top: solid 1px rgba(0, 0, 0, 0.07);
+}
+
+span.selected-icon {
+    margin-left: 10px;
+}
+
+.remove-selected-icon {
+    display: inline-block;
+    text-decoration: none;
+    margin-left: 10px;
+    color: #f56666;
+}
+
+.remove-selected-icon.hidden {
+    display: none;
+}
+
+span.selected-icon em {
+    color: #999;
+}

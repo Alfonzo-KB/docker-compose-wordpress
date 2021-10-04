@@ -1,0 +1,6325 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Highend\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-29 12:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: hbthemes"
+
+#: woocommerce/cart/cart-totals.php:116
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: bbpress/loop-single-topic.php:24
+#, php-format
+msgid " by %1$s"
+msgstr ""
+
+#: hbframework/admin/utilities/class-demo-importer.php:888
+msgid " failed to create file."
+msgstr ""
+
+#: includes/widgets/widget-recent-comments.php:77
+msgid " on "
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:498
+msgid " Photo"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:497
+msgid " Photos"
+msgstr ""
+
+#: template-parts/entry/description-blog-grid.php:86
+msgid "%"
+msgstr ""
+
+#: comments.php:30 functions/template-functions.php:162
+#: template-parts/single/single-faq.php:52
+#: template-parts/single/single-gallery.php:49
+#: template-parts/single/single-hb_testimonials.php:19
+#: template-parts/single/single-post.php:75
+msgid "% Comments"
+msgstr ""
+
+#: includes/hb-woocommerce.php:207
+msgid "% products"
+msgstr ""
+
+#: bbpress/loop-single-reply.php:32
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:34
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:763
+#, php-format
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#. %s: title of menu item which is invalid
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:177
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. %s: title of menu item in draft status
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:181
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: bbpress/bbpress-functions.php:485
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:136
+#, php-format
+msgid "%s available templates"
+msgstr ""
+
+#. %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#. $s number of found results.
+#: functions/common.php:329
+#, php-format
+msgid "%s result found"
+msgid_plural "%s results found"
+msgstr[0] ""
+msgstr[1] ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:504
+#, php-format
+msgid "%s, please try again."
+msgstr ""
+
+#: bbpress/user-details.php:20
+msgid "(Edit)"
+msgstr ""
+
+#: bbpress/form-forum.php:132
+msgid "(No Parent)"
+msgstr ""
+
+#: options-framework/views/option/restore.php:14
+msgid ""
+"** Please make sure you have already make a backup data of your current "
+"settings. Once you click this button, your current settings will be gone."
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/field.php:192
+msgid "+ Add more"
+msgstr ""
+
+#: template-parts/entry/description-blog-grid.php:86
+msgid "0"
+msgstr ""
+
+#: template-parts/single/single-faq.php:52
+#: template-parts/single/single-gallery.php:49
+#: template-parts/single/single-hb_testimonials.php:19
+msgid "0 Comments"
+msgstr ""
+
+#: includes/hb-woocommerce.php:209
+msgid "0 products"
+msgstr ""
+
+#: template-parts/entry/description-blog-grid.php:86
+msgid "1"
+msgstr ""
+
+#: comments.php:30 functions/template-functions.php:162
+#: template-parts/single/single-faq.php:52
+#: template-parts/single/single-gallery.php:49
+#: template-parts/single/single-hb_testimonials.php:19
+#: template-parts/single/single-post.php:75
+msgid "1 Comment"
+msgstr ""
+
+#: includes/hb-woocommerce.php:211
+msgid "1 product"
+msgstr ""
+
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:119
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:113
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:119
+msgid "16:9"
+msgstr ""
+
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:135
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:129
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:135
+msgid "1:1"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:680
+msgid "2"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:681
+msgid "3"
+msgstr ""
+
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:131
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:125
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:131
+msgid "3:1"
+msgstr ""
+
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:127
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:121
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:127
+msgid "3:2"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:682
+msgid "4"
+msgstr ""
+
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:123
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:117
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:123
+msgid "4:3"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:683
+msgid "5"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:684
+msgid "6"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:685
+msgid "7"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:686
+msgid "8"
+msgstr ""
+
+#: admin/metaboxes/meta-team-member-settings.php:10
+msgid ""
+"<p>Featured Image will be used as Team Member image.</p><p>Suggested image "
+"dimensions are 360 x 360px (1:1 image ratio).</p>"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:86 bbpress/form-topic-split.php:90
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr ""
+
+#: options-framework/classes/metabox.php:35
+msgid "[Development Mode] "
+msgstr ""
+
+#: includes/widgets/widget-ads-300x250.php:57
+msgid "[HB-Themes] Advertisement Image"
+msgstr ""
+
+#: includes/widgets/widget-contact-info.php:38
+msgid "[HB-Themes] Contact Info Widget"
+msgstr ""
+
+#: includes/widgets/widget-dribbble.php:38
+msgid "[HB-Themes] Dribbble Grid"
+msgstr ""
+
+#: includes/widgets/widget-facebook.php:38
+msgid "[HB-Themes] Facebook Like Box"
+msgstr ""
+
+#: includes/widgets/widget-flickr.php:38
+msgid "[HB-Themes] Flickr Grid"
+msgstr ""
+
+#: includes/gallery/gallery-widget.php:38
+#: includes/portfolio/gallery-widget.php:38
+msgid "[HB-Themes] Gallery Grid (Latest)"
+msgstr ""
+
+#: includes/widgets/widget-google.php:38
+msgid "[HB-Themes] Google+ Box"
+msgstr ""
+
+#: includes/widgets/widget-instagram.php:38
+msgid "[HB-Themes] Instagram Grid"
+msgstr ""
+
+#: includes/widgets/widget-most-liked-portfolio.php:38
+msgid "[HB-Themes] Most Liked Portfolio Widget"
+msgstr ""
+
+#: includes/widgets/widget-pinterest.php:38
+msgid "[HB-Themes] Pinterest Grid"
+msgstr ""
+
+#: includes/widgets/widget-portfolio.php:38
+msgid "[HB-Themes] Portfolio Grid (Latest)"
+msgstr ""
+
+#: includes/widgets/widget-portfolio-random.php:38
+msgid "[HB-Themes] Portfolio Grid (Random)"
+msgstr ""
+
+#: includes/widgets/widget-latest-posts.php:38
+msgid "[HB-Themes] Post List - Lastest Posts Widget"
+msgstr ""
+
+#: includes/widgets/widget-most-commented-posts.php:38
+msgid "[HB-Themes] Post List - Most Commented Widget"
+msgstr ""
+
+#: includes/widgets/widget-most-liked-posts.php:38
+msgid "[HB-Themes] Post List - Most Liked Widget"
+msgstr ""
+
+#: includes/widgets/widget-recent-comments.php:38
+msgid "[HB-Themes] Recent Comments"
+msgstr ""
+
+#: includes/widgets/widget-latest-posts-simple.php:38
+msgid "[HB-Themes] Simple Post List"
+msgstr ""
+
+#: includes/widgets/widget-social-icons.php:38
+msgid "[HB-Themes] Social Network Icons"
+msgstr ""
+
+#: includes/widgets/widget-testimonials.php:38
+msgid "[HB-Themes] Testimonials Widget"
+msgstr ""
+
+#: includes/widgets/widget-twitter.php:138
+msgid ""
+"[Twitter Widget Error] You need to authenticate your Twitter App first. Go "
+"to Highend Options > Social Links. <a href=\"https://documentation.hb-themes."
+"com/highend/#twitter\">Read the documentation</a> to find out more."
+msgstr ""
+
+#: hbframework/admin/pages/class-sidebar-manager-page.php:121
+msgid "A sidebar with that name already exists."
+msgstr ""
+
+#: includes/widgets/widget-ads-300x250.php:50
+msgid "A widget that displays 300px wide advertisement."
+msgstr ""
+
+#: includes/widgets/widget-facebook.php:35
+msgid "A widget that displays a Facebook like box."
+msgstr ""
+
+#: includes/widgets/widget-gmap.php:26
+msgid "A widget that displays Google Map."
+msgstr ""
+
+#: includes/widgets/widget-google.php:35
+msgid "A widget that displays Google+ like box."
+msgstr ""
+
+#: includes/widgets/widget-latest-posts.php:35
+msgid "A widget that displays latest blog posts."
+msgstr ""
+
+#: includes/widgets/widget-latest-posts-simple.php:35
+msgid "A widget that displays list of posts."
+msgstr ""
+
+#: includes/widgets/widget-most-commented-posts.php:35
+msgid "A widget that displays most commented blog posts."
+msgstr ""
+
+#: includes/widgets/widget-most-liked-posts.php:35
+msgid "A widget that displays most liked blog posts."
+msgstr ""
+
+#: includes/widgets/widget-portfolio-random.php:35
+msgid "A widget that displays random portfolio posts."
+msgstr ""
+
+#: includes/widgets/widget-recent-comments.php:35
+msgid "A widget that displays recent comments on your website."
+msgstr ""
+
+#: includes/widgets/widget-social-icons.php:35
+msgid ""
+"A widget that displays social networks specified in Highend Options panel."
+msgstr ""
+
+#: includes/widgets/widget-testimonials.php:35
+msgid "A widget that displays testimonial slider."
+msgstr ""
+
+#: includes/widgets/widget-contact-info.php:35
+msgid "A widget that displays your contact info."
+msgstr ""
+
+#: includes/widgets/widget-dribbble.php:35
+msgid "A widget that displays your dribbble posts."
+msgstr ""
+
+#: includes/widgets/widget-flickr.php:35
+msgid "A widget that displays your flickr posts."
+msgstr ""
+
+#: includes/widgets/widget-instagram.php:35
+msgid "A widget that displays your instagram posts."
+msgstr ""
+
+#: includes/gallery/gallery-widget.php:35
+#: includes/portfolio/gallery-widget.php:35
+msgid "A widget that displays your latest gallery posts."
+msgstr ""
+
+#: includes/widgets/widget-portfolio.php:35
+msgid "A widget that displays your latest portfolio posts."
+msgstr ""
+
+#: includes/widgets/widget-most-liked-portfolio.php:35
+msgid "A widget that displays your most like portfolio items."
+msgstr ""
+
+#: includes/widgets/widget-pinterest.php:35
+msgid "A widget that displays your pinterest posts."
+msgstr ""
+
+#: hbframework/hooks.php:99 template-parts/misc/author-info.php:32
+msgid "About"
+msgstr ""
+
+#: bbpress/user-details.php:33
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: bbpress/form-user-edit.php:74 bbpress/form-user-edit.php:77
+msgid "About the user"
+msgstr ""
+
+#: bbpress/form-user-edit.php:74 bbpress/form-user-edit.php:77
+msgid "About Yourself"
+msgstr ""
+
+#: config/customizer/customizer.php:402
+#: includes/customizer/settings/colors.php:21
+#: includes/customizer/settings/colors.php:32
+msgid "Accent Color"
+msgstr ""
+
+#: config/customizer/customizer.php:17 config/customizer/customizer.php:25
+#: config/customizer/customizer.php:33 config/customizer/customizer.php:49
+#: config/customizer/customizer.php:57 config/customizer/customizer.php:65
+#: config/customizer/customizer.php:73
+msgid "Accent color will be used as link hover color."
+msgstr ""
+
+#: bbpress/form-user-edit.php:91 bbpress/form-user-edit.php:94
+msgid "Account"
+msgstr ""
+
+#: hbframework/admin/pages/class-sidebar-manager-page.php:221
+msgid "Action"
+msgstr ""
+
+#: hbframework/admin/pages/class-install-plugins-page.php:352
+#: hbframework/admin/pages/class-install-plugins-page.php:409
+#: hbframework/admin/pages/class-demo-importer-page.php:207
+msgid "Activate"
+msgstr ""
+
+#: hbframework/admin/pages/class-install-plugins-page.php:352
+msgid "Activating"
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:209
+msgid "Active"
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-settings.php:107
+msgid ""
+"Add a button which will be titled as specified and will lead to a link "
+"describing or showcasing your portfolio item."
+msgstr ""
+
+#: admin/metaboxes/meta-pricing-table-settings.php:49
+msgid ""
+"Add a custom ribbon on your pricing plan. Leave empty to hide. Example: "
+"POPULAR"
+msgstr ""
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:75
+msgid "Add a review"
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:110
+msgid ""
+"Add a subtitle to this slide. Leave empty to disable. You can use HTML "
+"markup."
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:103
+msgid ""
+"Add a title to this slide. Leave empty to disable. You can use HTML markup"
+msgstr ""
+
+#: admin/metaboxes/meta-team-layout-settings.php:77
+#: admin/metaboxes/meta-portfolio-layout-settings.php:100
+msgid "Add as many items by clicking the Add More button."
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:9
+msgid ""
+"Add as many presentation slides as you want by clicking the Add More button."
+msgstr ""
+
+#: admin/metaboxes/meta-pricing-table-settings.php:9
+msgid ""
+"Add as many pricing table columns as you want by clicking the Add More "
+"button."
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-settings.php:106
+msgid "Add Demo Button"
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:165
+#: admin/metaboxes/meta-presentation-settings.php:179
+msgid ""
+"Add link to this button. You need to enter the link with https:// prefix. "
+"Leave empty if you do not want to use it"
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:150
+msgid "Add menu items and manage everything related."
+msgstr ""
+
+#: options-framework/classes/metabox.php:586
+#: options-framework/classes/metabox/alchemy.php:515
+msgid "Add More"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:308
+msgid "Add New"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:349
+#: includes/core/class-highend-theme-setup.php:350
+msgid "Add New Client"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:585
+msgid "Add New Client Category"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:521
+msgid "Add New FAQ Category"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:388
+#: includes/core/class-highend-theme-setup.php:389
+msgid "Add New FAQ Item"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:159
+msgid "Add New Gallery Category"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:97
+#: includes/gallery/class-highend-gallery.php:98
+msgid "Add New Gallery Item"
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:141
+msgid "Add new or editing existing pages on your website."
+msgstr ""
+
+#: includes/portfolio/class-highend-portfolio.php:163
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: includes/portfolio/class-highend-portfolio.php:99
+#: includes/portfolio/class-highend-portfolio.php:100
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:430
+msgid "Add New Pricing Table"
+msgstr ""
+
+#: hbframework/admin/pages/class-sidebar-manager-page.php:241
+msgid "Add New Sidebar"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:309
+msgid "Add New Team Member"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:617
+msgid "Add New Team Member Category"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:470
+msgid "Add New Testimonial"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:553
+msgid "Add New Testimonial Category"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:429
+msgid "Add Pricing Table"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:469
+msgid "Add Testimonial"
+msgstr ""
+
+#: woocommerce/content-product.php:168
+msgid "Add to Cart"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:192
+msgid ""
+"Add your widgets for the side panel section here. Make sure you have enabled "
+"the offset side panel section option in Highend Options > Layout Settings > "
+"Header Settings."
+msgstr ""
+
+#: includes/hb-woocommerce.php:267
+msgid "added to cart."
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:57
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional information"
+msgstr ""
+
+#: includes/widgets/widget-contact-info.php:145
+msgid "Address:"
+msgstr ""
+
+#: includes/widgets/widget-ads-300x250.php:33
+msgid "Advertisement"
+msgstr ""
+
+#: includes/widgets/widget-ads-300x250.php:93
+msgid "Advertisment"
+msgstr ""
+
+#: functions/deprecated.php:235 includes/widgets/widget-twitter.php:117
+msgid "ago"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:311
+msgid "Align sub-menus to the right if they overflow the right border."
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:127
+msgid "Alignment"
+msgstr ""
+
+#: page-templates/gallery-fullwidth.php:79
+msgid "ALL"
+msgstr ""
+
+#: page-templates/gallery-fullwidth.php:81 functions/template-parts.php:976
+#: includes/gallery/gallery-widget.php:172
+#: includes/portfolio/gallery-widget.php:172
+#: includes/widgets/widget-most-liked-portfolio.php:185
+#: includes/widgets/widget-portfolio-random.php:159
+#: includes/widgets/widget-testimonials.php:224
+#: includes/widgets/widget-most-liked-posts.php:152
+#: includes/widgets/widget-portfolio.php:159
+#: includes/widgets/widget-latest-posts-simple.php:177
+#: includes/widgets/widget-most-commented-posts.php:151
+#: includes/widgets/widget-latest-posts.php:180
+#: hbframework/admin/pages/class-install-plugins-page.php:365
+#: hbframework/admin/pages/class-demo-importer-page.php:143
+#: hbframework/admin/pages/class-demo-importer-page.php:229
+#: admin/metaboxes/meta-box-master/inc/fields/select.php:91
+msgid "All"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:580
+msgid "All Client Categories"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:347
+msgid "All Clients"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:516
+msgid "All FAQ Categories"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:386
+msgid "All FAQ Items"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:154
+msgid "All Gallery Categories"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:95
+msgid "All Gallery Items"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:306
+msgid "All Members"
+msgstr ""
+
+#: includes/portfolio/class-highend-portfolio.php:158
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: includes/portfolio/class-highend-portfolio.php:97
+msgid "All Portfolio Items"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:427
+msgid "All Pricing Tables"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:34
+msgid ""
+"All replies within both topics will be merged chronologically. The order of "
+"the merged replies is based on the time and date they were posted. If the "
+"destination topic was created after this one, it's post date will be updated "
+"to second earlier than this one."
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:612
+msgid "All Team Member Categories"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:548
+msgid "All Testimonial Categories"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:467
+msgid "All Testimonials"
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-settings.php:72
+msgid "Alternative Featured Image"
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-settings.php:52
+msgid "Alternative Image"
+msgstr ""
+
+#: admin/metaboxes/meta-misc-settings.php:75
+msgid "Alternative Logo"
+msgstr ""
+
+#: hbframework/admin/utilities/class-install-plugins.php:542
+#: hbframework/admin/utilities/class-install-plugins.php:546
+msgid ""
+"An unexpected error occurred. Something may be wrong with WordPress.org or "
+"this server&#8217;s configuration. If you continue to have problems, please "
+"try the <a href=\"http://wordpress.org/support/\">support forums</a>."
+msgstr ""
+
+#: hbframework/admin/pages/class-install-plugins-page.php:315
+msgid "and"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:95
+msgid "Any links to this tag will no longer function."
+msgstr ""
+
+#: hbframework/admin/pages/class-sidebar-manager-page.php:208
+msgid "Appearance > Widgets."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:95 woocommerce/cart/cart-totals.php:100
+msgid "Apply Coupon"
+msgstr ""
+
+#: bbpress/bbpress-functions.php:312 bbpress/bbpress-functions.php:380
+#: bbpress/bbpress-functions.php:448
+msgid "Are you sure you meant to do that?"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:101
+#, php-format
+msgid ""
+"Are you sure you want to delete the \"%s\" tag? This is permanent and cannot "
+"be undone."
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:86
+msgid "Are you sure you want to do import this template?"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:73
+#, php-format
+msgid ""
+"Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:304
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:643
+#: includes/gallery/class-highend-gallery.php:742
+#: includes/widgets/widget-testimonials.php:251
+#: includes/widgets/widget-latest-posts-simple.php:208
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:83
+#: admin/metaboxes/meta-blog-fw-page-settings.php:81
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:77
+#: admin/metaboxes/meta-blog-grid-page-settings.php:72
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:83
+#: admin/metaboxes/meta-blog-page-minimal-settings.php:54
+#: admin/metaboxes/meta-blog-page-settings.php:72
+msgid "Ascending"
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:237
+msgid "Attachments"
+msgstr ""
+
+#: admin/metaboxes/meta-post-format-settings.php:24
+msgid "Audio Post Format"
+msgstr ""
+
+#: functions/template-parts.php:1116
+#: includes/widgets/widget-latest-posts-simple.php:198
+#: admin/metaboxes/meta-testimonials.php:5
+msgid "Author"
+msgstr ""
+
+#: functions/breadcrumbs.php:236
+#, php-format
+msgid ""
+"Author <span class=\"sep-icon\"><i class=\"icon-angle-right\"></i></span> %s"
+msgstr ""
+
+#: admin/metaboxes/meta-testimonials.php:26
+msgid "Author Image"
+msgstr ""
+
+#: bbpress/form-anonymous.php:17
+msgid "Author Information"
+msgstr ""
+
+#: admin/metaboxes/meta-post-format-settings.php:71
+msgid "Author of this post "
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:708
+msgid "Auto Rotate?"
+msgstr ""
+
+#: woocommerce/cart/cart.php:96
+msgid "Available on backorder"
+msgstr ""
+
+#: hbframework/admin/pages/class-install-plugins-page.php:358
+msgid "available plugins"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:128 includes/hb-woocommerce.php:451
+msgid "Average"
+msgstr ""
+
+#: functions/template-parts.php:2008
+msgid "Back to our Home"
+msgstr ""
+
+#: admin/metaboxes/meta-contact-page-settings.php:5
+msgid "Background"
+msgstr ""
+
+#: config/customizer/customizer.php:410 config/customizer/customizer.php:442
+#: config/customizer/customizer.php:451 config/customizer/customizer.php:532
+#: config/customizer/customizer.php:550 config/customizer/customizer.php:577
+#: admin/metaboxes/meta-general-settings.php:95
+#: admin/metaboxes/meta-presentation-settings.php:44
+msgid "Background Color"
+msgstr ""
+
+#: config/customizer/customizer.php:460 config/customizer/customizer.php:514
+msgid "Background Color (Sticky)"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:374
+#: admin/metaboxes/meta-blog-fw-page-settings.php:38
+#: admin/metaboxes/meta-background-settings.php:40
+msgid "Background Image"
+msgstr ""
+
+#: admin/metabox/class-metabox.php:296
+#: admin/metaboxes/meta-background-settings.php:8
+msgid "Background Settings"
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:23
+msgid "Background Type"
+msgstr ""
+
+#: options-framework/classes/option.php:473
+msgid "Backup Settings"
+msgstr ""
+
+#: bbpress/bbpress-functions.php:51
+msgid "bbPress Default"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:24
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:28
+msgid "Billing Address"
+msgstr ""
+
+#: bbpress/form-user-edit.php:82
+msgid "Biographical Info"
+msgstr ""
+
+#. Name of the template
+msgid "Blank Template"
+msgstr ""
+
+#: functions/breadcrumbs.php:115 functions/breadcrumbs.php:122
+#: functions/breadcrumbs.php:128
+msgid "Blog"
+msgstr ""
+
+#. Name of the template
+msgid "Blog - Classic"
+msgstr ""
+
+#. Name of the template
+msgid "Blog - Fullwidth"
+msgstr ""
+
+#. Name of the template
+msgid "Blog - Grid"
+msgstr ""
+
+#. Name of the template
+msgid "Blog - Minimal"
+msgstr ""
+
+#: admin/metaboxes/meta-blog-page-settings.php:19
+msgid "Blog Style"
+msgstr ""
+
+#: config/config.php:156
+msgid "Bloggera"
+msgstr ""
+
+#: admin/metaboxes/meta-pricing-table-settings.php:40
+msgid "Blue"
+msgstr ""
+
+#: config/customizer/customizer.php:604
+msgid "Body Background Color"
+msgstr ""
+
+#: config/customizer/customizer.php:418 config/customizer/customizer.php:487
+msgid "Border Color"
+msgstr ""
+
+#: config/customizer/customizer.php:496
+msgid "Border Color (Sticky)"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:163
+msgid "Bordered"
+msgstr ""
+
+#: admin/theme-options-dependency.php:177
+#: admin/theme-options-dependency.php:227
+msgid "Borders Grow Effect"
+msgstr ""
+
+#: admin/theme-options-dependency.php:157
+#: admin/theme-options-dependency.php:199
+msgid "Bottom Border Effect"
+msgstr ""
+
+#: admin/theme-options-dependency.php:161
+#: admin/theme-options-dependency.php:203
+msgid "Bottom Border Effect 2"
+msgstr ""
+
+#: admin/theme-options-dependency.php:173
+#: admin/theme-options-dependency.php:223
+msgid "Bottom Border Grow Effect"
+msgstr ""
+
+#: admin/theme-options-dependency.php:181
+#: admin/theme-options-dependency.php:231
+msgid "Bottom Circles Effect"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:232
+#: admin/metaboxes/meta-general-settings.php:279
+#: admin/metaboxes/meta-contact-page-settings.php:99
+msgid "Bottom To Top"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:228
+#: admin/metaboxes/meta-general-settings.php:275
+#: admin/metaboxes/meta-contact-page-settings.php:95
+msgid "Bounce Up"
+msgstr ""
+
+#: admin/metaboxes/meta-misc-settings.php:28
+msgid "Boxed"
+msgstr ""
+
+#: admin/metaboxes/meta-misc-settings.php:19
+msgid "Boxed or Stretched Layout"
+msgstr ""
+
+#: admin/theme-options-dependency.php:149
+#: admin/theme-options-dependency.php:191
+msgid "Brackets Effect"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:13
+msgid "Breadrumbs."
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:184
+msgid "Build me a website"
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-settings.php:124
+msgid "Button Link"
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-settings.php:113
+msgid "Button Title"
+msgstr ""
+
+#: template-parts/entry/description-blog-small.php:56
+msgid "By"
+msgstr ""
+
+#: includes/widgets/widget-most-liked-posts.php:84
+#: includes/widgets/widget-most-commented-posts.php:83
+#, php-format
+msgid "By %1$s on %2$s"
+msgstr ""
+
+#: config/config.php:91
+msgid "Café"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:26
+msgid "Calculate Shipping"
+msgstr ""
+
+#: options-framework/classes/option.php:306
+msgid "Can not be empty"
+msgstr ""
+
+#: hbframework/hooks.php:68
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:474
+#: options-framework/classes/shortcodegenerator.php:261
+#: hbframework/admin/pages/class-sidebar-manager-page.php:192
+msgid "Cancel"
+msgstr ""
+
+#: comments.php:71
+msgid "Cancel Reply"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:665
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:661
+msgid "Carousel with gallery items."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:42
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:31
+msgid "Cart Totals"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:591
+#: includes/gallery/class-highend-gallery.php:717
+msgid "Category"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:23
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/metaboxes/meta-general-settings.php:136
+#: admin/metaboxes/meta-presentation-settings.php:126
+msgid "Center"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:414
+msgid "Center Bottom"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:413
+msgid "Center Center"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:412
+msgid "Center Top"
+msgstr ""
+
+#: admin/metaboxes/meta-background-settings.php:7
+msgid ""
+"Change the background of this page or use the Default Theme Options Settings."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:29
+msgid ""
+"Changing the slug affects its permalink. Any links to the old slug will stop "
+"working."
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:8
+msgid ""
+"Check this box if you want to hide the featured image output on this single "
+"page/post."
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:342
+msgid "Check this box if you want to show Mega Menu column captions."
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:328
+msgid "Check this box if you want to turn this item into Mega Menu."
+msgstr ""
+
+#: admin/metaboxes/meta-misc-settings.php:48
+msgid ""
+"Check this box if you want to use the One Page menu as your Mobile Menu for "
+"this page."
+msgstr ""
+
+#: admin/metaboxes/meta-misc-settings.php:62
+msgid ""
+"Check this box in order to disable the main menu navigation on the current "
+"page."
+msgstr ""
+
+#: admin/metaboxes/meta-misc-settings.php:41
+msgid ""
+"Check this box in order to enable one page features such as one-page "
+"navigation (set in Appearance > Menus) and one page sections. This is "
+"REQUIRED if you want to use One Page for your website. Create sub-pages "
+"inside this page by using One Page Sections from the Visual Composer "
+"elements. Note that sidebars are not available for One Page website."
+msgstr ""
+
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:27
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:27
+msgid "Check this field to display gallery filter."
+msgstr ""
+
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:34
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:34
+msgid "Check this field to display gallery sorter."
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:20
+msgid "Check this field to display portfolio filter."
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:27
+msgid "Check this field to display portfolio sorter."
+msgstr ""
+
+#: includes/hb-woocommerce.php:267
+msgid "Checkout"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:375
+msgid ""
+"Choose a background image for the Mega Menu. Leave empty if you are not "
+"going to use a background image."
+msgstr ""
+
+#: admin/metaboxes/meta-team-layout-settings.php:19
+#: admin/metaboxes/meta-portfolio-layout-settings.php:48
+msgid "Choose a content layout for the portfolio item page."
+msgstr ""
+
+#: admin/metaboxes/meta-gallery-settings.php:7
+msgid ""
+"Choose a custom color that will be used when this gallery item is hovered in "
+"shortcodes and page templates. Leave empty to use the focus color."
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-settings.php:32
+msgid ""
+"Choose a custom color that will be used when this portfolio is hovered in "
+"shortcodes and page templates. Leave empty to use the focus color."
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-layout-settings.php:23
+msgid "Choose a header layout for the portfolio item page."
+msgstr ""
+
+#: admin/metaboxes/meta-featured-page-section.php:79
+msgid "Choose a Layer Slider to display in the Featured Section of the page."
+msgstr ""
+
+#: admin/metaboxes/meta-layout-settings.php:23
+msgid "Choose a page sidebar layout."
+msgstr ""
+
+#: admin/metaboxes/meta-featured-page-section.php:67
+msgid ""
+"Choose a Revolution Slider to display in the Featured Section of the page."
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-settings.php:93
+msgid "Choose a Revolution Slider to represent your portfolio item."
+msgstr ""
+
+#: admin/metaboxes/meta-team-layout-settings.php:99
+#: admin/metaboxes/meta-portfolio-layout-settings.php:122
+msgid "Choose a sidebar generated in the Sidebar Manager."
+msgstr ""
+
+#: admin/metaboxes/meta-background-settings.php:29
+msgid "Choose a solid color for your background."
+msgstr ""
+
+#: admin/metaboxes/meta-featured-page-section.php:102
+msgid "Choose an effect for the Featured Section of the page."
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:285
+msgid "Choose an icon that will be shown before the menu item."
+msgstr ""
+
+#: admin/metaboxes/meta-contact-page-settings.php:86
+msgid "Choose Animation"
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:45
+msgid "Choose background color for this slide."
+msgstr ""
+
+#: admin/metaboxes/meta-contact-page-settings.php:6
+msgid ""
+"Choose between a map or an image background, located behind the contact form."
+" Map location will be pulled from Highend Options > Map Settings"
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:130
+msgid ""
+"Choose between hundreds of options. Customize every aspect of the theme."
+msgstr ""
+
+#: admin/metaboxes/meta-blog-page-settings.php:31
+msgid "Choose between regular and small style for your blog page."
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:151
+msgid "Choose between simple, fancy and bordered style."
+msgstr ""
+
+#: admin/metaboxes/meta-blog-fw-page-settings.php:114
+#: admin/metaboxes/meta-blog-fw-page-settings.php:142
+#: admin/metaboxes/meta-blog-grid-page-settings.php:105
+#: admin/metaboxes/meta-blog-page-minimal-settings.php:87
+#: admin/metaboxes/meta-blog-page-settings.php:105
+msgid "Choose between standard pagination and fancy ajax page loading."
+msgstr ""
+
+#: admin/metaboxes/meta-misc-settings.php:20
+msgid ""
+"Choose between stretched and boxed layout or use the Default Theme Options "
+"Settings."
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:201
+msgid "Choose Color Scheme"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:383
+#: options-framework/views/control/upload.php:11
+msgid "Choose File"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:587
+msgid "Choose from the most used Client categories"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:523
+msgid "Choose from the most used FAQ categories"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:161
+msgid "Choose from the most used Gallery categories"
+msgstr ""
+
+#: includes/portfolio/class-highend-portfolio.php:165
+msgid "Choose from the most used Portfolio categories"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:619
+msgid "Choose from the most used Team Member categories"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:555
+msgid "Choose from the most used Testimonial categories"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:174
+msgid "Choose Height Scheme"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:696
+msgid ""
+"Choose how many gallery items to include in the carousel. To get all items "
+"enter -1."
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:584
+msgid ""
+"Choose how many gallery items to include in the section. To get all items "
+"enter -1."
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:570
+msgid "Choose how many in how many columns to show your gallery items."
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:688
+msgid "Choose how many posts are visible at a time."
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:672
+msgid "Choose how the gallery items are styled."
+msgstr ""
+
+#: admin/metaboxes/meta-layout-settings.php:59
+msgid ""
+"Choose if you want to display the content area. If disabled, only Featured "
+"Section will be shown."
+msgstr ""
+
+#: admin/metaboxes/meta-layout-settings.php:76
+msgid "Choose if you want to display the footer area with widgets."
+msgstr ""
+
+#: admin/metaboxes/meta-layout-settings.php:118
+msgid "Choose if you want to display the header area with widgets."
+msgstr ""
+
+#: admin/metaboxes/meta-layout-settings.php:97
+msgid "Choose if you want to display the pre footer callout area."
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:626
+#: includes/gallery/class-highend-gallery.php:734
+msgid ""
+"Choose in which order to show gallery items.<br/><small>Select an order from "
+"the list of possible orders.</small>."
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:356
+msgid "Choose number of rows to display in Megamenu."
+msgstr ""
+
+#: admin/metaboxes/meta-team-layout-settings.php:44
+#: admin/metaboxes/meta-portfolio-layout-settings.php:73
+msgid "Choose on which side will the sidebar appear."
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:383
+msgid "Choose or upload a file"
+msgstr ""
+
+#: admin/metaboxes/meta-blog-fw-page-settings.php:70
+#: admin/metaboxes/meta-blog-grid-page-settings.php:61
+#: admin/metaboxes/meta-blog-page-minimal-settings.php:43
+#: admin/metaboxes/meta-blog-page-settings.php:61
+msgid "Choose order for your blog posts on this page."
+msgstr ""
+
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:72
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:72
+msgid "Choose order for your gallery posts on this page."
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:66
+msgid "Choose order for your portfolio posts on this page."
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:601
+msgid "Choose orientation of the gallery thumbnails."
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:118
+msgid "Choose position for title and subtitle."
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:612
+msgid "Choose ratio of the gallery thumbnails."
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:140
+msgid "Choose Style"
+msgstr ""
+
+#: admin/metaboxes/meta-featured-page-section.php:142
+msgid "Choose the height for the Featured Image for this page."
+msgstr ""
+
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:97
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:91
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:97
+msgid "Choose thumbnail orientation."
+msgstr ""
+
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:115
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:109
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:115
+msgid "Choose thumbnail ratio."
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:128
+msgid "Choose title and subtitle alignment."
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-settings.php:40
+msgid "Choose what to display in the featured section of the portfolio page."
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:14
+msgid "Choose whether to show the breadcrumbs on this page."
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:49
+msgid ""
+"Choose whether to use the Theme Options Settings or set Custom Settings."
+msgstr ""
+
+#: admin/metaboxes/meta-featured-page-section.php:59
+msgid "Choose which element to display in the featured section of the page."
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:592
+msgid ""
+"Choose which gallery categories will be shown in the carousels. Enter "
+"category <strong>slugs</strong> and separate them with commas. Example: "
+"category-1, category-2."
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:721
+msgid ""
+"Choose which gallery categories will be shown in the carousels. Enter "
+"category <strong>slugs</strong> and separate them with commas. Example: "
+"category-1, category-2</small>."
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:159
+msgid "Choose which page will be used as your home page."
+msgstr ""
+
+#: admin/metaboxes/meta-pricing-table-settings.php:28
+msgid "Choose which ribbon will appear on this item."
+msgstr ""
+
+#: config/config.php:118
+msgid "Church"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:86
+msgid "City"
+msgstr ""
+
+#: admin/metabox/class-metabox.php:202
+msgid "Classic Blog Template Settings"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/button.php:29
+msgid "Click me"
+msgstr ""
+
+#: vc_templates/vc_toggle.php:4
+msgid "Click to toggle"
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:86
+msgid ""
+"Clicking this option will replace your current theme options and widgets."
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:348
+msgid "Client"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:577
+msgid "Client Categories"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:578
+msgid "Client Category"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:346
+msgid "Clients"
+msgstr ""
+
+#: admin/metabox/class-metabox.php:131
+msgid "Clients Settings"
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:28
+msgid "Color"
+msgstr ""
+
+#: config/customizer/customizer.php:8
+msgid "Color - Accent"
+msgstr ""
+
+#: config/customizer/customizer.php:48
+msgid "Color - Callout (Pre Footer)"
+msgstr ""
+
+#: config/customizer/customizer.php:72
+msgid "Color - Content"
+msgstr ""
+
+#: config/customizer/customizer.php:64
+msgid "Color - Copyright Bar"
+msgstr ""
+
+#: config/customizer/customizer.php:56
+msgid "Color - Footer"
+msgstr ""
+
+#: config/customizer/customizer.php:32
+msgid "Color - Navigation Bar"
+msgstr ""
+
+#: config/customizer/customizer.php:24
+msgid "Color - Side Navigation"
+msgstr ""
+
+#: config/customizer/customizer.php:40
+msgid "Color - Special Header"
+msgstr ""
+
+#: config/customizer/customizer.php:16
+msgid "Color - Top Bar"
+msgstr ""
+
+#: admin/metaboxes/meta-pricing-table-settings.php:14
+msgid "Color Accent"
+msgstr ""
+
+#: config/customizer/customizer.php:41
+msgid "Colors related to the special header."
+msgstr ""
+
+#: admin/metaboxes/meta-blog-fw-page-settings.php:120
+#: admin/metaboxes/meta-blog-grid-page-settings.php:112
+msgid "Column Count"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:355
+#: includes/gallery/class-highend-gallery.php:569
+msgid "Columns"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:2007
+#, php-format
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:1989
+#, php-format
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:632
+#: includes/gallery/class-highend-gallery.php:731
+#: includes/widgets/widget-recent-comments.php:141
+#: includes/widgets/widget-latest-posts-simple.php:201
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:61
+#: admin/metaboxes/meta-blog-fw-page-settings.php:59
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:55
+#: admin/metaboxes/meta-blog-grid-page-settings.php:50
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:61
+#: admin/metaboxes/meta-blog-page-minimal-settings.php:32
+#: admin/metaboxes/meta-blog-page-settings.php:50
+msgid "Comment Count"
+msgstr ""
+
+#: includes/widgets/widget-contact-info.php:142
+msgid "Company:"
+msgstr ""
+
+#: single-team.php:151
+msgid "Connect"
+msgstr ""
+
+#: admin/metaboxes/meta-contact-page-settings.php:79
+msgid "Contact Box Animation"
+msgstr ""
+
+#: admin/metaboxes/meta-contact-page-settings.php:40
+msgid "Contact Box Content"
+msgstr ""
+
+#: admin/metaboxes/meta-contact-page-settings.php:32
+msgid "Contact Box Title"
+msgstr ""
+
+#: admin/metaboxes/meta-contact-page-settings.php:49
+msgid "Contact Detail"
+msgstr ""
+
+#: admin/metaboxes/meta-contact-page-settings.php:71
+msgid "Contact Form Title"
+msgstr ""
+
+#: bbpress/form-user-edit.php:49 bbpress/form-user-edit.php:52
+msgid "Contact Info"
+msgstr ""
+
+#. Name of the template
+msgid "Contact Template"
+msgstr ""
+
+#: admin/metabox/class-metabox.php:175
+msgid "Contact Template Settings"
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:79
+#: hbframework/admin/pages/class-demo-importer-page.php:233
+msgid "Content"
+msgstr ""
+
+#: admin/metaboxes/meta-layout-settings.php:58
+msgid "Content Area"
+msgstr ""
+
+#: config/customizer/customizer.php:622
+#: admin/metaboxes/meta-background-settings.php:51
+msgid "Content Background Color"
+msgstr ""
+
+#: hbframework/admin/utilities/class-demo-importer.php:319
+msgid "Content import failed."
+msgstr ""
+
+#: hbframework/admin/utilities/class-demo-importer.php:347
+msgid "Content import failed. Content import class not found."
+msgstr ""
+
+#: hbframework/admin/utilities/class-demo-importer.php:344
+msgid "Content import failed. Import file highend.xml not found."
+msgstr ""
+
+#: admin/metaboxes/meta-team-layout-settings.php:18
+#: admin/metaboxes/meta-portfolio-layout-settings.php:47
+msgid "Content Layout"
+msgstr ""
+
+#: config/customizer/customizer.php:640
+msgid "Content Link Color"
+msgstr ""
+
+#: config/customizer/customizer.php:631
+msgid "Content Text Color"
+msgstr ""
+
+#: woocommerce/cart/cart.php:145
+msgid "Continue Shopping"
+msgstr ""
+
+#: bbpress/form-topic-split.php:81
+msgid "Copy favoriters to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-split.php:76
+msgid "Copy subscribers to the new topic"
+msgstr ""
+
+#: bbpress/form-topic-split.php:84
+msgid "Copy topic tags to the new topic"
+msgstr ""
+
+#: hbframework/admin/utilities/class-demo-importer.php:866
+msgid "Could not download remote file"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:1871
+#, php-format
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:2003
+#, php-format
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:1985
+#, php-format
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:1958
+#, php-format
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:1852
+#, php-format
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:130
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:1913
+#, php-format
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:2024
+#, php-format
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: page-templates/gallery-fullwidth.php:54
+msgid "Count"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:99
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:53
+msgid "Create an account?"
+msgstr ""
+
+#: bbpress/form-forum.php:35
+msgid "Create New Forum"
+msgstr ""
+
+#: bbpress/form-forum.php:35
+#, php-format
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: bbpress/form-topic.php:33
+msgid "Create New Topic"
+msgstr ""
+
+#: bbpress/form-topic.php:33
+#, php-format
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: hbframework/admin/pages/class-sidebar-manager-page.php:219
+msgid "CSS Class"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:260
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: hbframework/admin/utilities/class-install-plugins.php:171
+msgid "Current user can't activate plugins"
+msgstr ""
+
+#: hbframework/admin/utilities/class-install-plugins.php:145
+msgid "Current user can't activate plugins."
+msgstr ""
+
+#: hbframework/admin/utilities/class-install-plugins.php:209
+msgid "Current user can't deactivate plugins"
+msgstr ""
+
+#: hbframework/admin/utilities/class-install-plugins.php:106
+msgid "Current user can't install plugins"
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:78
+#, php-format
+msgid "Currently processing: %s"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:57
+msgid "Custom"
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-settings.php:31
+#: admin/metaboxes/meta-gallery-settings.php:6
+msgid "Custom Background Hover Color"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:105
+msgid "Custom Image"
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-settings.php:23
+msgid "Custom Portfolio Link"
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:253
+msgid "Customizer"
+msgstr ""
+
+#: hbframework/admin/utilities/class-demo-importer.php:582
+msgid "Customizer import failed."
+msgstr ""
+
+#: hbframework/admin/utilities/class-demo-importer.php:584
+msgid "Customizer import failed. Import file customizer.txt not found."
+msgstr ""
+
+#: functions/common.php:338
+#, php-format
+msgid "Daily Archive for %s"
+msgstr ""
+
+#: includes/widgets/widget-social-icons.php:131
+#: admin/metaboxes/meta-presentation-settings.php:149
+msgid "Dark"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:209
+msgid "Dark Text"
+msgstr ""
+
+#: functions/template-parts.php:638
+msgid "Dashboard"
+msgstr ""
+
+#: page-templates/gallery-fullwidth.php:50
+#: page-templates/gallery-fullwidth.php:52 functions/template-parts.php:1008
+#: includes/gallery/class-highend-gallery.php:629
+#: includes/gallery/class-highend-gallery.php:728
+#: includes/widgets/widget-testimonials.php:242
+#: includes/widgets/widget-latest-posts-simple.php:195
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:53
+#: admin/metaboxes/meta-blog-fw-page-settings.php:51
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:47
+#: admin/metaboxes/meta-blog-grid-page-settings.php:42
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:53
+#: admin/metaboxes/meta-blog-page-minimal-settings.php:24
+#: admin/metaboxes/meta-blog-page-settings.php:42
+msgid "Date"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:58
+msgid "Date:"
+msgstr ""
+
+#: bbpress/bbpress-functions.php:492
+#: includes/core/class-highend-enqueue-scripts.php:152
+msgid "day"
+msgstr ""
+
+#: page-templates/maintenance.php:113 bbpress/bbpress-functions.php:492
+#: includes/core/class-highend-enqueue-scripts.php:153
+msgid "days"
+msgstr ""
+
+#: hbframework/admin/pages/class-install-plugins-page.php:352
+#: hbframework/admin/pages/class-install-plugins-page.php:405
+msgid "Deactivate"
+msgstr ""
+
+#: hbframework/admin/pages/class-install-plugins-page.php:352
+msgid "Deactivating"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:177
+#: admin/metaboxes/meta-layout-settings.php:6
+#: admin/metaboxes/meta-portfolio-layout-settings.php:5
+msgid "Default Sidebar"
+msgstr ""
+
+#: admin/metaboxes/meta-team-layout-settings.php:89
+#: admin/metaboxes/meta-portfolio-layout-settings.php:112
+msgid "Define the detail content."
+msgstr ""
+
+#: admin/metaboxes/meta-team-layout-settings.php:83
+#: admin/metaboxes/meta-portfolio-layout-settings.php:106
+msgid "Define the detail title."
+msgstr ""
+
+#: admin/metaboxes/meta-team-layout-settings.php:69
+msgid "Define the meta sidebar title."
+msgstr ""
+
+#: bbpress/form-topic-tag.php:88 bbpress/form-topic-tag.php:101
+#: hbframework/admin/pages/class-sidebar-manager-page.php:192
+#: hbframework/admin/pages/class-sidebar-manager-page.php:231
+#: admin/metaboxes/meta-box-master/inc/fields/autocomplete.php:23
+#: admin/metaboxes/meta-box-master/inc/fields/autocomplete.php:87
+#: admin/metaboxes/meta-box-master/inc/fields/autocomplete.php:104
+msgid "Delete"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:94
+msgid "Deleting a tag cannot be undone."
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:82
+msgid ""
+"Demo import failed. Please check for PHP limits and change those to the "
+"recommended value and try again."
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:84
+msgid "Demo import finished with errors:"
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:87
+msgid ""
+"Demo Import timed out and did not finish successfully. Would you like to "
+"retry the import?"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:642
+#: includes/gallery/class-highend-gallery.php:741
+#: includes/widgets/widget-testimonials.php:252
+#: includes/widgets/widget-latest-posts-simple.php:209
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:87
+#: admin/metaboxes/meta-blog-fw-page-settings.php:85
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:81
+#: admin/metaboxes/meta-blog-grid-page-settings.php:76
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:87
+#: admin/metaboxes/meta-blog-page-minimal-settings.php:58
+#: admin/metaboxes/meta-blog-page-settings.php:76
+msgid "Descending"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:639
+#: includes/gallery/class-highend-gallery.php:744
+msgid "Descending or Ascending order."
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:272
+#: admin/metaboxes/meta-testimonials.php:12
+#: hbframework/admin/pages/class-sidebar-manager-page.php:217
+msgid "Description"
+msgstr ""
+
+#: admin/metaboxes/meta-testimonials.php:19
+msgid "Description Link"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:38
+msgid "Destination"
+msgstr ""
+
+#: admin/metaboxes/meta-contact-page-settings.php:61
+#: admin/metaboxes/meta-team-layout-settings.php:88
+#: admin/metaboxes/meta-portfolio-layout-settings.php:111
+msgid "Detail Content"
+msgstr ""
+
+#: admin/metaboxes/meta-team-layout-settings.php:82
+#: admin/metaboxes/meta-portfolio-layout-settings.php:105
+msgid "Detail Title"
+msgstr ""
+
+#: includes/portfolio/portfolio-functions.php:364
+msgid "Details"
+msgstr ""
+
+#: options-framework/classes/option.php:167
+msgid ""
+"Development Mode is Active, options' values won't be saved into database."
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:712
+msgid "Disable"
+msgstr ""
+
+#: admin/metaboxes/meta-misc-settings.php:61
+msgid "Disable Main Navigation Menu"
+msgstr ""
+
+#: hbframework/admin/pages/class-install-plugins-page.php:249
+#: hbframework/admin/pages/class-install-plugins-page.php:263
+msgid "Dismiss"
+msgstr ""
+
+#: bbpress/form-user-edit.php:39
+msgid "Display name publicly as"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/core.php:40
+msgid "Documentation"
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:121
+msgid ""
+"Don't want to start from scratch? Import a pre-built website and replace "
+"content."
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:284
+msgid "Done"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:451
+msgid "Down one"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:226
+msgid "Edit"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:351
+msgid "Edit Client"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:583
+msgid "Edit Client Category"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:519
+msgid "Edit FAQ Category"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:390
+msgid "Edit FAQ Item"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:157
+msgid "Edit Gallery Category"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:99
+msgid "Edit Gallery Item"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:226
+msgid "Edit menu item"
+msgstr ""
+
+#: includes/portfolio/class-highend-portfolio.php:161
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: includes/portfolio/class-highend-portfolio.php:101
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:431
+msgid "Edit Pricing Table"
+msgstr ""
+
+#: bbpress/user-details.php:20
+#, php-format
+msgid "Edit Profile of User %s"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:310
+msgid "Edit Team Member"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:615
+msgid "Edit Team Member Category"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:471
+msgid "Edit Testimonial"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:551
+msgid "Edit Testimonial Category"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95 bbpress/form-user-edit.php:105
+#: template-parts/misc/quick-contact-form.php:24
+#: template-parts/misc/special-contact-form.php:17
+msgid "Email"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:64
+#: includes/widgets/widget-contact-info.php:154
+msgid "Email:"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/oembed.php:65
+msgid "Embed HTML not available."
+msgstr ""
+
+#: vc_templates/vc_toggle.php:34 vc_templates/vc_accordion_tab.php:19
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: vc_templates/vc_tab.php:26
+msgid "Empty tab. Edit page to add content here."
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:711
+msgid "Enable"
+msgstr ""
+
+#: includes/widgets/widget-gmap.php:181
+msgid "Enable Border"
+msgstr ""
+
+#: includes/widgets/widget-gmap.php:178
+msgid "Enable Draggable"
+msgstr ""
+
+#: admin/metaboxes/meta-contact-page-settings.php:81
+msgid "Enable entrance animation of the contact form box."
+msgstr ""
+
+#: includes/widgets/widget-gmap.php:172
+msgid "Enable Map Type Control"
+msgstr ""
+
+#: admin/metaboxes/meta-misc-settings.php:40
+msgid "Enable One Page Elements"
+msgstr ""
+
+#: includes/widgets/widget-gmap.php:166
+msgid "Enable Pan Control"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:118
+msgid "Enable Parallax effect on the uploaded image."
+msgstr ""
+
+#: includes/widgets/widget-gmap.php:175
+msgid "Enable Scale Control"
+msgstr ""
+
+#: includes/widgets/widget-gmap.php:162
+msgid "Enable Scroll Wheel"
+msgstr ""
+
+#: admin/metaboxes/meta-misc-settings.php:68
+msgid "Enable Special Header Style"
+msgstr ""
+
+#: admin/metaboxes/meta-misc-settings.php:69
+msgid ""
+"Enable this field if you want to enable the special header style. Please "
+"note that this will override the Header Style settings from the Theme "
+"Options on this page only."
+msgstr ""
+
+#: includes/widgets/widget-gmap.php:169
+msgid "Enable Zoom Control"
+msgstr ""
+
+#: admin/metaboxes/meta-featured-page-section.php:124
+msgid ""
+"Enable/disable parallax effect? Only for image It will not work for slider."
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-settings.php:24
+msgid ""
+"Enter a custom URL that will be opened after clicking on this portfolio item."
+" Enter full URL with https:// prefix. Leave empty to use SINGLE PORTFOLIO "
+"PAGE."
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-settings.php:84
+msgid "Enter a link to the video representing this item."
+msgstr ""
+
+#: admin/metaboxes/meta-testimonials.php:20
+msgid ""
+"Enter a link, which redirects to a website of your choice, such as the "
+"author company website."
+msgstr ""
+
+#: admin/metaboxes/meta-pricing-table-settings.php:70
+msgid ""
+"Enter a period of time for this pricing item and the given price. Example: "
+"yearly, monthly, daily etc."
+msgstr ""
+
+#: admin/metaboxes/meta-testimonials.php:13
+msgid ""
+"Enter a short line describing the author, such as their company name or "
+"position."
+msgstr ""
+
+#: admin/metaboxes/meta-post-format-settings.php:15
+msgid "Enter a URL of your video here."
+msgstr ""
+
+#: admin/metaboxes/meta-misc-settings.php:56
+msgid ""
+"Enter an extra class for this page. Separate each class with a blank space."
+msgstr ""
+
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:41
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:41
+msgid ""
+"Enter how many gallery items will be shown per page. Enter -1 to display all "
+"gallery items."
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:35
+msgid ""
+"Enter how many portfolio items will be shown per page. Enter -1 to display "
+"all items."
+msgstr ""
+
+#: searchform.php:12
+msgid "Enter keywords"
+msgstr ""
+
+#: admin/metaboxes/meta-featured-page-section.php:96
+msgid ""
+"Enter link to the video. Example: https://www.youtube.com/watch?v=Q_7cVyM8Efg"
+msgstr ""
+
+#: admin/metaboxes/meta-contact-page-settings.php:41
+msgid "Enter the contact box content."
+msgstr ""
+
+#: admin/metaboxes/meta-contact-page-settings.php:33
+msgid "Enter the contact box title."
+msgstr ""
+
+#: admin/metaboxes/meta-contact-page-settings.php:72
+msgid "Enter the contact form title."
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-settings.php:115
+msgid "Enter the custom custom title."
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:36
+msgid "Enter the custom page title."
+msgstr ""
+
+#: admin/metaboxes/meta-contact-page-settings.php:62
+msgid "Enter the detail content. Example for address: 2046 Avenue 191"
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-settings.php:125
+msgid "Enter the link which to your portfolio item."
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:42
+msgid "Enter the page subtitle."
+msgstr ""
+
+#: admin/metaboxes/meta-testimonials.php:6
+msgid "Enter this testimonial author name."
+msgstr ""
+
+#: admin/metaboxes/meta-contact-page-settings.php:50
+msgid "Enter you contact details, such as address, phone, email, website etc."
+msgstr ""
+
+#: template-parts/misc/author-info.php:53
+msgid "entries to our website, so far."
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/file.php:85
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:263
+msgid "Essential Grid"
+msgstr ""
+
+#: hbframework/admin/utilities/class-demo-importer.php:452
+msgid "Essential Grid import failed."
+msgstr ""
+
+#: hbframework/admin/utilities/class-demo-importer.php:537
+msgid "Essential Grid import failed. Import file ess_grid.json not found."
+msgstr ""
+
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:143
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:137
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:143
+msgid "Exclude Gallery Categories"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:68
+msgid "Existing tag:"
+msgstr ""
+
+#: options-framework/views/option/impexp.php:27
+#: options-framework/views/option/impexp.php:37
+msgid "Export"
+msgstr ""
+
+#: options-framework/config/messages.php:32
+msgid "Export failed"
+msgstr ""
+
+#: options-framework/views/option/impexp.php:30
+msgid "Export Options"
+msgstr ""
+
+#: options-framework/config/messages.php:31
+msgid "Export succeed, copy the JSON formatted options"
+msgstr ""
+
+#: options-framework/classes/option.php:488
+msgid "Export/Import"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/core.php:41
+msgid "Extensions"
+msgstr ""
+
+#: admin/metaboxes/meta-misc-settings.php:54
+msgid "Extra Classes"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:178
+msgid "Extra Large"
+msgstr ""
+
+#: includes/widgets/widget-facebook.php:115
+msgid ""
+"Facebook page URL: <br/><small>Example: http://facebook.com/hbthemes</small>"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:252
+#: admin/metaboxes/meta-general-settings.php:299
+#: admin/metaboxes/meta-contact-page-settings.php:119
+msgid "Fade In"
+msgstr ""
+
+#: hbframework/admin/utilities/class-install-plugins.php:184
+#, php-format
+msgid "Failed to activate %s."
+msgstr ""
+
+#: hbframework/admin/utilities/class-install-plugins.php:176
+#: hbframework/admin/pages/class-install-plugins-page.php:129
+msgid "Failed to activate plugin."
+msgstr ""
+
+#: hbframework/admin/utilities/class-install-plugins.php:222
+#, php-format
+msgid "Failed to deactivate %s."
+msgstr ""
+
+#: hbframework/admin/utilities/class-install-plugins.php:214
+#: hbframework/admin/utilities/class-install-plugins.php:226
+#: hbframework/admin/pages/class-install-plugins-page.php:149
+msgid "Failed to deactivate plugin."
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:869
+#, php-format
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:753
+#, php-format
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:1711
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:1541
+#, php-format
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: hbframework/admin/utilities/class-install-plugins.php:119
+#, php-format
+msgid "Failed to install %s."
+msgstr ""
+
+#: hbframework/admin/pages/class-install-plugins-page.php:109
+msgid "Failed to install plugin."
+msgstr ""
+
+#: hbframework/admin/utilities/class-install-plugins.php:111
+msgid "Failed to install required plugin."
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:159
+msgid "Fancy"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:385
+msgid "FAQ"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:513
+msgid "FAQ Categories"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:514
+msgid "FAQ Category"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:387
+msgid "FAQ Item"
+msgstr ""
+
+#: bbpress/user-favorites.php:17
+msgid "Favorite Forum Topics"
+msgstr ""
+
+#: bbpress/bbpress-functions.php:353
+msgid "Favorites are no longer active."
+msgstr ""
+
+#: includes/widgets/widget-contact-info.php:151
+msgid "Fax:"
+msgstr ""
+
+#: admin/metaboxes/meta-pricing-table-settings.php:76
+msgid "Feature List"
+msgstr ""
+
+#: admin/metaboxes/meta-pricing-table-settings.php:20
+msgid "Featured"
+msgstr ""
+
+#: admin/class-highend-admin.php:95 admin/metaboxes/meta-clients-settings.php:6
+#: admin/metaboxes/meta-portfolio-settings.php:48
+msgid "Featured Image"
+msgstr ""
+
+#: admin/metaboxes/meta-featured-page-section.php:141
+#: admin/metaboxes/meta-featured-page-section.php:162
+msgid "Featured Image Height"
+msgstr ""
+
+#: admin/metaboxes/meta-featured-page-section.php:101
+msgid "Featured Section Effect"
+msgstr ""
+
+#: admin/metabox/class-metabox.php:161
+msgid "Featured Section Settings"
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-settings.php:39
+msgid "Featured Section Shows"
+msgstr ""
+
+#: admin/metaboxes/meta-featured-page-section.php:58
+msgid "Featured Section Type"
+msgstr ""
+
+#: functions/template-parts.php:2006
+msgid "File not Found"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/file.php:99
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/file.php:162
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/file.php:163
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/file.php:98
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:26
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:19
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:26
+msgid "Filter"
+msgstr ""
+
+#: page-templates/gallery-fullwidth.php:79
+msgid "Filter by:"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/map.php:49
+msgid "Find Address"
+msgstr ""
+
+#: bbpress/form-user-edit.php:24
+msgid "First Name"
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:94
+msgid "First Steps"
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-settings.php:64
+msgid "Flexslider"
+msgstr ""
+
+#: admin/theme-options-dependency.php:219
+msgid "Focus Hover Effect"
+msgstr ""
+
+#: includes/widgets/widget-twitter.php:130
+msgid "Follow "
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:95
+msgid "Follow these tips to get started."
+msgstr ""
+
+#: hbframework/admin/utilities/class-icon-manager.php:31
+msgid "FontAwesome"
+msgstr ""
+
+#: admin/metaboxes/meta-layout-settings.php:96
+msgid "Footer Callout Area"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:130
+msgid "Footer Menu"
+msgstr ""
+
+#: admin/metaboxes/meta-layout-settings.php:75
+msgid "Footer Widgets"
+msgstr ""
+
+#: bbpress/loop-forums.php:19
+msgid "Forum"
+msgstr ""
+
+#: bbpress/form-forum.php:76
+msgid "Forum Description:"
+msgstr ""
+
+#: bbpress/form-forum.php:65
+#, php-format
+msgid "Forum Name (Maximum Length: %d):"
+msgstr ""
+
+#: bbpress/user-topics-created.php:17
+msgid "Forum Topics Created"
+msgstr ""
+
+#: bbpress/form-forum.php:100
+msgid "Forum Type:"
+msgstr ""
+
+#: bbpress/form-topic.php:102
+msgid "Forum:"
+msgstr ""
+
+#: functions/breadcrumbs.php:90 functions/breadcrumbs.php:94
+#: functions/breadcrumbs.php:165 functions/common.php:282
+msgid "Forums"
+msgstr ""
+
+#: functions/common.php:248
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: bbpress/loop-forums.php:22 bbpress/loop-topics.php:22
+msgid "Freshness"
+msgstr ""
+
+#: includes/gallery/gallery-widget.php:170
+#: includes/portfolio/gallery-widget.php:170
+#: includes/widgets/widget-most-liked-portfolio.php:183
+#: includes/widgets/widget-portfolio-random.php:157
+#: includes/widgets/widget-testimonials.php:222
+#: includes/widgets/widget-most-liked-posts.php:150
+#: includes/widgets/widget-portfolio.php:157
+#: includes/widgets/widget-latest-posts-simple.php:175
+#: includes/widgets/widget-most-commented-posts.php:149
+#: includes/widgets/widget-latest-posts.php:178
+msgid "From Category:"
+msgstr ""
+
+#: admin/metaboxes/meta-layout-settings.php:31
+#: admin/metaboxes/meta-team-layout-settings.php:27
+#: admin/metaboxes/meta-portfolio-layout-settings.php:35
+#: admin/metaboxes/meta-portfolio-layout-settings.php:56
+msgid "Fullwidth"
+msgstr ""
+
+#: admin/metabox/class-metabox.php:244
+msgid "Fullwidth Blog Template Settings"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:565
+msgid "Fullwidth Gallery Section."
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:195
+msgid "Fullwidth Gallery Template Settings"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:94
+msgid "Gallery"
+msgstr ""
+
+#. Name of the template
+msgid "Gallery - Fullwidth"
+msgstr ""
+
+#. Name of the template
+msgid "Gallery - Standard"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:656
+msgid "Gallery Carousel"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:151
+msgid "Gallery Categories"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:152
+msgid "Gallery Category"
+msgstr ""
+
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:152
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:152
+msgid "Gallery Column Count"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:560
+msgid "Gallery Fullwidth"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:96
+msgid "Gallery Item"
+msgstr ""
+
+#: includes/gallery/gallery-widget.php:189
+#: includes/portfolio/gallery-widget.php:189
+msgid "Gallery Item Number: "
+msgstr ""
+
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:40
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:40
+msgid "Gallery Items Per Page"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:219
+msgid "Gallery Settings"
+msgstr ""
+
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:19
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:19
+msgid "Gallery Title"
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:80
+msgid "General Data"
+msgstr ""
+
+#: admin/metabox/class-metabox.php:262
+msgid "General Settings"
+msgstr ""
+
+#: hbframework/hooks.php:144
+msgid "Get Premium Support"
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:76
+msgid "Get Started"
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:167
+#: hbframework/admin/pages/class-about-page.php:169
+msgid "Get Support"
+msgstr ""
+
+#: hbframework/admin/pages/class-install-plugins-page.php:235
+#: hbframework/admin/pages/class-install-plugins-page.php:248
+#, php-format
+msgid "Go to %s Plugins"
+msgstr ""
+
+#: includes/hb-woocommerce.php:339 includes/hb-woocommerce.php:411
+msgid "Go to shop"
+msgstr ""
+
+#: admin/metaboxes/meta-pricing-table-settings.php:36
+msgid "Gold"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:127 includes/hb-woocommerce.php:450
+msgid "Good"
+msgstr ""
+
+#: admin/metaboxes/meta-contact-page-settings.php:10
+msgid "Google Map"
+msgstr ""
+
+#: includes/widgets/widget-google.php:127
+msgid "Google+ Page URL:"
+msgstr ""
+
+#: bbpress/form-user-edit.php:156
+msgid "Grant this user super admin privileges for the Network."
+msgstr ""
+
+#: admin/theme-options-dependency.php:215
+msgid "Grey Hover Effect"
+msgstr ""
+
+#: admin/metabox/class-metabox.php:230
+msgid "Grid Blog Template Settings"
+msgstr ""
+
+#: admin/metaboxes/meta-blog-fw-page-settings.php:19
+#: admin/metaboxes/meta-blog-grid-page-settings.php:19
+msgid "Grid Style"
+msgstr ""
+
+#: config/customizer/customizer.php:658
+msgid "H1 Color"
+msgstr ""
+
+#: config/customizer/customizer.php:667
+msgid "H2 Color"
+msgstr ""
+
+#: config/customizer/customizer.php:676
+msgid "H3 Color"
+msgstr ""
+
+#: config/customizer/customizer.php:685
+msgid "H4 Color"
+msgstr ""
+
+#: config/customizer/customizer.php:694
+msgid "H5 Color"
+msgstr ""
+
+#: config/customizer/customizer.php:703
+msgid "H6 Color"
+msgstr ""
+
+#: template-parts/misc/author-info.php:51
+msgid "has contributed"
+msgstr ""
+
+#. Author of the theme
+msgid "HB-Themes"
+msgstr ""
+
+#: hbframework/admin/utilities/class-demo-importer.php:575
+msgid "HB_Customizer_Helper not found."
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-layout-settings.php:22
+msgid "Header Layout"
+msgstr ""
+
+#: admin/metaboxes/meta-layout-settings.php:117
+msgid "Header Widgets"
+msgstr ""
+
+#: includes/widgets/widget-gmap.php:158
+msgid "Height of the map:"
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:72
+msgid "Hey"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:26
+#: admin/metaboxes/meta-portfolio-settings.php:44
+#: admin/metaboxes/meta-layout-settings.php:67
+msgid "Hide"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:6
+msgid "Hide Featured Image"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:77
+msgid "Hide Page Title"
+msgstr ""
+
+#: admin/metaboxes/meta-layout-settings.php:109
+msgid "Hide Pre Footer Area"
+msgstr ""
+
+#: admin/metaboxes/meta-layout-settings.php:88
+#: admin/metaboxes/meta-layout-settings.php:130
+msgid "Hide Widgets"
+msgstr ""
+
+#. Name of the theme
+#: hbframework/admin/pages/class-about-page.php:73
+msgid "Highend"
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:112
+msgid ""
+"Highend comes with optional and required plugins. Please install all "
+"required plugins."
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:280
+msgid "Highend Menu Options"
+msgstr ""
+
+#: hbframework/hooks.php:135 includes/core/class-highend-options.php:162
+#: includes/core/class-highend-options.php:163
+#: hbframework/admin/pages/class-about-page.php:129
+#: hbframework/admin/pages/class-about-page.php:131
+msgid "Highend Options"
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:84
+msgid "Highend Preview &mdash; 2 mins"
+msgstr ""
+
+#: includes/tinymce/hbthemes-shortcodes-iframe.php:31
+msgid "Highend Shortcode Generator"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:564
+#: includes/gallery/class-highend-gallery.php:660
+msgid "Highend Shortcodes"
+msgstr ""
+
+#: hbframework/admin/pages/class-install-plugins-page.php:232
+msgid "Highend theme requires"
+msgstr ""
+
+#: bbpress/form-user-edit.php:135
+msgid ""
+"Hint: The password should be at least seven characters long. To make it "
+"stronger, use upper and lower case letters, numbers and symbols like ! \" ? "
+"$ % ^ &amp; )."
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:198
+msgid "Hire"
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:179
+msgid "Hire an Expert"
+msgstr ""
+
+#: functions/breadcrumbs.php:86 functions/common.php:264
+msgid "Home"
+msgstr ""
+
+#: bbpress/bbpress-functions.php:493
+#: includes/core/class-highend-enqueue-scripts.php:154
+msgid "hour"
+msgstr ""
+
+#: page-templates/maintenance.php:117 bbpress/bbpress-functions.php:493
+#: includes/core/class-highend-enqueue-scripts.php:155
+msgid "hours"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:280
+#: hbframework/admin/pages/class-sidebar-manager-page.php:197
+msgid "How to use?"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://hb-themes.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.hb-themes.com/themes/highend/"
+msgstr ""
+
+#: hbframework/admin/utilities/class-icon-manager.php:48
+msgid "IcoMoon"
+msgstr ""
+
+#: admin/metaboxes/meta-contact-page-settings.php:55
+msgid "Icon"
+msgstr ""
+
+#: hbframework/hooks.php:59
+msgid "Icon Finder"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:290
+msgid "Icon Picker"
+msgstr ""
+
+#: includes/widgets/widget-social-icons.php:120
+msgid "Icon Size:"
+msgstr ""
+
+#: includes/widgets/widget-social-icons.php:129
+msgid "Icon Style:"
+msgstr ""
+
+#: admin/metaboxes/meta-contact-page-settings.php:56
+msgid "Icon which describes your contact details."
+msgstr ""
+
+#: hbframework/admin/utilities/class-icon-manager.php:31
+#: hbframework/admin/utilities/class-icon-manager.php:48
+msgid "icons"
+msgstr ""
+
+#: includes/widgets/widget-latest-posts-simple.php:196
+msgid "ID"
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:87
+msgid "If this keeps happening, please contact support."
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:168
+msgid "If you need help, visit the support center."
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:185
+msgid ""
+"If you need theme customization or a completely custom website, <strong>hire "
+"our experts to build your website</strong>, just the way you want it."
+msgstr ""
+
+#: bbpress/form-topic-split.php:33
+msgid ""
+"If you use the existing topic option, replies within both topics will be "
+"merged chronologically. The order of the merged replies is based on the time "
+"and date they were posted."
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:427
+msgid ""
+"If you want to show widgets inside your Mega Menu, you can choose which "
+"widgetized section will be shown inside this menu item."
+msgstr ""
+
+#: bbpress/form-user-edit.php:129
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+
+#: admin/metaboxes/meta-contact-page-settings.php:14
+#: admin/metaboxes/meta-presentation-settings.php:32
+#: admin/metaboxes/meta-background-settings.php:16
+msgid "Image"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:600
+msgid "Image Orientation"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:401
+msgid "Image Position"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:611
+msgid "Image Ratio"
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:68
+msgid ""
+"Image that will be used on mobile phones and where videos are not supported. "
+"Suggested dimensions are 1920x1080p."
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/thickbox-image.php:53
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:282
+#: options-framework/views/option/impexp.php:4
+#: options-framework/views/option/impexp.php:14
+msgid "Import"
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:85
+msgid "Import Complete"
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:223
+msgid "Import Content"
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:120
+#: hbframework/admin/pages/class-about-page.php:122
+#: hbframework/admin/pages/class-demo-importer-page.php:180
+msgid "Import Demo"
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:135
+msgid "Import Demo Templates"
+msgstr ""
+
+#: hbframework/hooks.php:117
+#: hbframework/admin/pages/class-demo-importer-page.php:44
+#: hbframework/admin/pages/class-demo-importer-page.php:45
+msgid "Import Demos"
+msgstr ""
+
+#: options-framework/config/messages.php:30
+msgid "Import failed"
+msgstr ""
+
+#: options-framework/views/option/impexp.php:7
+msgid "Import Options"
+msgstr ""
+
+#: options-framework/config/messages.php:29
+msgid "Import succeed, option page will be refreshed.."
+msgstr ""
+
+#: hbframework/admin/utilities/class-sidebar-manager.php:303
+msgid "Imported"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:901
+#: hbframework/vendor/importer/class-wxr-importer.php:1735
+#, php-format
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: hbframework/admin/utilities/class-sidebar-manager.php:306
+msgid "Imported to Inactive"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:1562
+#, php-format
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:86
+msgid ""
+"Importing demo content will provide sliders, pages, posts, theme options, "
+"widgets, sidebars and other settings. You will get a copy of the demo."
+msgstr ""
+
+#: bbpress/loop-single-topic.php:30
+#, php-format
+msgid "in <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: includes/hb-woocommerce.php:301 includes/hb-woocommerce.php:379
+msgid "in the cart."
+msgstr ""
+
+#: options-framework/classes/shortcodegenerator.php:260
+msgid "Insert"
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:205
+msgid "Install"
+msgstr ""
+
+#: hbframework/admin/pages/class-install-plugins-page.php:352
+#: hbframework/admin/pages/class-install-plugins-page.php:392
+msgid "Install Plugin"
+msgstr ""
+
+#: hbframework/hooks.php:108 hbframework/admin/pages/class-about-page.php:111
+#: hbframework/admin/pages/class-about-page.php:113
+#: hbframework/admin/pages/class-install-plugins-page.php:45
+#: hbframework/admin/pages/class-install-plugins-page.php:46
+#: hbframework/admin/pages/class-install-plugins-page.php:356
+msgid "Install Plugins"
+msgstr ""
+
+#: hbframework/admin/pages/class-install-plugins-page.php:352
+msgid "Installing"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:564
+msgid "Invalid author mapping"
+msgstr ""
+
+#: options-framework/classes/option.php:331
+msgid "Invalid data"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:1050
+msgid "Invalid file type"
+msgstr ""
+
+#: options-framework/classes/option.php:460
+msgid "Invalid template supplied"
+msgstr ""
+
+#: hbframework/admin/utilities/class-install-plugins.php:256
+#, php-format
+msgid "It was not possible to activate %s. Because it isn't installed."
+msgstr ""
+
+#: hbframework/admin/utilities/class-install-plugins.php:301
+#, php-format
+msgid "It was not possible to deactivate %s. Because it isn't active."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:37
+msgid "Items in Cart"
+msgstr ""
+
+#: config/config.php:104
+msgid "Jasper"
+msgstr ""
+
+#: bbpress/form-reply.php:111 bbpress/form-topic.php:156
+msgid "Keep a log of this edit:"
+msgstr ""
+
+#: bbpress/form-user-login.php:28
+msgid "Keep me signed in"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/key-value.php:20
+msgid "Key"
+msgstr ""
+
+#: config/config.php:131
+msgid "Landing/Startup"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:605
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:101
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:95
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:101
+msgid "Landscape"
+msgstr ""
+
+#: functions/template-parts.php:705
+msgid "Language"
+msgstr ""
+
+#: includes/widgets/widget-social-icons.php:122
+#: admin/metaboxes/meta-general-settings.php:182
+msgid "Large"
+msgstr ""
+
+#: bbpress/form-user-edit.php:29
+msgid "Last Name"
+msgstr ""
+
+#: bbpress/loop-topics.php:20
+msgid "Last Poster"
+msgstr ""
+
+#: hbframework/admin/utilities/class-install-plugins.php:125
+#, php-format
+msgid "Latest version of plugin is already installed: %s."
+msgstr ""
+
+#: includes/widgets/widget-gmap.php:147
+msgid "Latitude:"
+msgstr ""
+
+#: admin/metaboxes/meta-featured-page-section.php:78
+msgid "Layer Slider"
+msgstr ""
+
+#: admin/metabox/class-metabox.php:277
+msgid "Layout Settings"
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:76
+#: hbframework/admin/pages/class-about-page.php:102
+msgid "Learn How To Use"
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:104
+msgid "Learn How to Use"
+msgstr ""
+
+#: comments.php:69
+msgid "Leave a Reply"
+msgstr ""
+
+#. %s is product title
+#: comments.php:70 woocommerce/single-product-reviews.php:77
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:25
+msgid "Leave the slug empty to have one automatically generated."
+msgstr ""
+
+#: comments.php:31
+msgid "Leave your reply."
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:317
+#: admin/metaboxes/meta-general-settings.php:132
+#: admin/metaboxes/meta-presentation-settings.php:122
+msgid "Left"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:411
+msgid "Left Bottom"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:410
+msgid "Left Center"
+msgstr ""
+
+#: admin/metaboxes/meta-layout-settings.php:39
+#: admin/metaboxes/meta-team-layout-settings.php:52
+#: admin/metaboxes/meta-portfolio-layout-settings.php:81
+msgid "Left Sidebar"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:240
+#: admin/metaboxes/meta-general-settings.php:287
+#: admin/metaboxes/meta-contact-page-settings.php:107
+msgid "Left To Right"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:409
+msgid "Left Top"
+msgstr ""
+
+#: options-framework/config/messages.php:18
+msgid "Length needs to be less than {0} characters"
+msgstr ""
+
+#: options-framework/config/messages.php:19
+msgid "Length needs to be more than {0} characters"
+msgstr ""
+
+#: config/config.php:143
+msgid "Life Coach"
+msgstr ""
+
+#: includes/widgets/widget-social-icons.php:132
+#: admin/metaboxes/meta-presentation-settings.php:145
+msgid "Light"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:205
+msgid "Light Text"
+msgstr ""
+
+#: functions/theme-likes.php:61 functions/theme-likes.php:82
+msgid "Like this post."
+msgstr ""
+
+#: config/customizer/customizer.php:434 config/customizer/customizer.php:568
+#: config/customizer/customizer.php:595
+msgid "Link Color"
+msgstr ""
+
+#: admin/metaboxes/meta-post-format-settings.php:51
+msgid "Link Post Format"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:266
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: admin/metaboxes/meta-post-format-settings.php:56
+msgid "Link this post to: "
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:190
+msgid "Live Preview"
+msgstr ""
+
+#: admin/metaboxes/meta-blog-fw-page-settings.php:111
+#: admin/metaboxes/meta-blog-fw-page-settings.php:139
+#: admin/metaboxes/meta-blog-grid-page-settings.php:102
+#: admin/metaboxes/meta-blog-page-minimal-settings.php:84
+#: admin/metaboxes/meta-blog-page-settings.php:102
+msgid "Load More"
+msgstr ""
+
+#: functions/template-parts.php:368
+#: includes/core/class-highend-enqueue-scripts.php:150
+msgid "Load More Posts"
+msgstr ""
+
+#: bbpress/form-user-login.php:14 bbpress/form-user-login.php:35
+msgid "Log In"
+msgstr ""
+
+#: functions/template-parts.php:655
+msgid "Log Out"
+msgstr ""
+
+#: template-parts/misc/login-form.php:46
+msgid "Log out from this account."
+msgstr ""
+
+#: comments.php:75
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: includes/login-form.php:19 functions/template-parts.php:597
+#: template-parts/misc/login-form.php:30
+msgid "Login"
+msgstr ""
+
+#. Name of the template
+msgid "Login Page"
+msgstr ""
+
+#: admin/metaboxes/meta-clients-settings.php:13
+msgid "Logo"
+msgstr ""
+
+#: includes/widgets/widget-gmap.php:150
+msgid "Longitude:"
+msgstr ""
+
+#: bbpress/form-user-lost-pass.php:14
+msgid "Lost Password"
+msgstr ""
+
+#: bbpress/form-anonymous.php:27
+msgid "Mail (will not be published) (required):"
+msgstr ""
+
+#: config/config.php:17
+msgid "Main Demo"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:129
+msgid "Main Menu"
+msgstr ""
+
+#: admin/metaboxes/meta-pricing-table-settings.php:22
+msgid ""
+"Make this pricing item featured. It will be styled differently than regular "
+"ones. Use with Featured Ribbon for best \"stand out\" look."
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:149
+#: hbframework/admin/pages/class-about-page.php:151
+msgid "Manage Menus"
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:140
+#: hbframework/admin/pages/class-about-page.php:142
+msgid "Manage Pages"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:18
+#, php-format
+msgid "Manage Tag: \"%s\""
+msgstr ""
+
+#: hbframework/admin/pages/class-sidebar-manager-page.php:244
+#: hbframework/admin/pages/class-sidebar-manager-page.php:246
+msgid "Manage Widgets"
+msgstr ""
+
+#: admin/metaboxes/meta-blog-fw-page-settings.php:28
+#: admin/metaboxes/meta-blog-grid-page-settings.php:28
+msgid "Masonry"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/media.php:25
+msgctxt "media"
+msgid " file"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/media.php:26
+msgctxt "media"
+msgid " files"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/media.php:24
+msgctxt "media"
+msgid "+ Add Media"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/media.php:34
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/media.php:28
+msgctxt "media"
+msgid "Edit"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/media.php:30
+msgctxt "media"
+msgid "No Title"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/media.php:27
+msgctxt "media"
+msgid "Remove"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/media.php:33
+msgctxt "media"
+msgid "Select Files"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/media.php:29
+msgctxt "media"
+msgid "View"
+msgstr ""
+
+#: includes/team-related-items.php:31
+msgid "Meet More Team Members"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:327
+msgid "Mega Menu"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:284
+msgid "Menu Icon"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:633
+#: includes/gallery/class-highend-gallery.php:732
+#: includes/widgets/widget-testimonials.php:244
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:65
+#: admin/metaboxes/meta-blog-fw-page-settings.php:63
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:59
+#: admin/metaboxes/meta-blog-grid-page-settings.php:54
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:65
+#: admin/metaboxes/meta-blog-page-minimal-settings.php:36
+#: admin/metaboxes/meta-blog-page-settings.php:54
+msgid "Menu Order"
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:269
+msgid "Menus & Homepage setup"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:59 bbpress/form-topic-tag.php:73
+msgid "Merge"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:24
+#, php-format
+msgid "Merge topic \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-merge.php:77
+msgid "Merge topic favoriters"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:72
+msgid "Merge topic subscribers"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:80
+msgid "Merge topic tags"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:42
+msgid "Merge with this topic:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:62
+msgid "Merging tags together cannot be undone."
+msgstr ""
+
+#: template-parts/misc/special-contact-form.php:28
+msgid "Message Sent"
+msgstr ""
+
+#: template-parts/misc/quick-contact-form.php:40
+msgid "Message Sent!"
+msgstr ""
+
+#: admin/metaboxes/meta-team-layout-settings.php:76
+#: admin/metaboxes/meta-portfolio-layout-settings.php:99
+msgid "Meta Sidebar Item"
+msgstr ""
+
+#: admin/metaboxes/meta-team-layout-settings.php:68
+msgid "Meta Sidebar Title"
+msgstr ""
+
+#: config/config.php:76
+msgid "Minimal"
+msgstr ""
+
+#: admin/metabox/class-metabox.php:216
+msgid "Minimal Blog Template Settings"
+msgstr ""
+
+#: bbpress/bbpress-functions.php:494
+#: includes/core/class-highend-enqueue-scripts.php:156
+msgid "minute"
+msgstr ""
+
+#: page-templates/maintenance.php:121 bbpress/bbpress-functions.php:494
+#: includes/core/class-highend-enqueue-scripts.php:157
+msgid "minutes"
+msgstr ""
+
+#: admin/metabox/class-metabox.php:314
+msgid "Misc Settings"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:131
+msgid "Mobile Menu"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:670
+msgid "Modern"
+msgstr ""
+
+#: includes/widgets/widget-latest-posts-simple.php:199
+msgid "Modified"
+msgstr ""
+
+#: bbpress/bbpress-functions.php:490
+msgid "month"
+msgstr ""
+
+#: functions/common.php:341
+#, php-format
+msgid "Monthly Archive for %s"
+msgstr ""
+
+#: bbpress/bbpress-functions.php:490
+msgid "months"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:449
+msgid "Move"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:222
+msgid "Move down"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:209
+msgid "Move up"
+msgstr ""
+
+#: admin/metaboxes/meta-post-format-settings.php:41
+msgid "MP3 Audio Link"
+msgstr ""
+
+#: functions/template-parts.php:631
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:38
+msgid "My account"
+msgstr ""
+
+#: functions/template-parts.php:647
+msgid "My Cart"
+msgstr ""
+
+#: woocommerce/single-product/title.php:33
+msgid "n/a"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+#: page-templates/gallery-fullwidth.php:53 bbpress/form-user-edit.php:14
+#: bbpress/form-user-edit.php:19 functions/template-parts.php:1013
+#: template-parts/misc/quick-contact-form.php:21
+#: template-parts/misc/special-contact-form.php:14
+msgid "Name"
+msgstr ""
+
+#: bbpress/form-anonymous.php:22
+msgid "Name (required):"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:35
+msgid "Name:"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:242
+msgid "Navigation Label"
+msgstr ""
+
+#: woocommerce/content-product.php:133
+msgid "New"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:352
+msgid "New Client"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:586
+msgid "New Client Category Name"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:522
+msgid "New FAQ Category Name"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:391
+msgid "New FAQ Item"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:160
+msgid "New Gallery Category Name"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:100
+msgid "New Gallery Item"
+msgstr ""
+
+#: functions/template-functions.php:237
+msgid "New Message!"
+msgstr ""
+
+#: bbpress/form-user-edit.php:126
+msgid "New Password"
+msgstr ""
+
+#: includes/portfolio/class-highend-portfolio.php:164
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: includes/portfolio/class-highend-portfolio.php:102
+msgid "New Portfolio Item"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:432
+msgid "New Pricing Table"
+msgstr ""
+
+#: hbframework/admin/pages/class-sidebar-manager-page.php:192
+msgid "New Sidebar"
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:191
+msgid "New Tab"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:311
+msgid "New Team Member"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:618
+msgid "New Team Member Category Name"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:472
+msgid "New Testimonial"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:554
+msgid "New Testimonial Category Name"
+msgstr ""
+
+#: bbpress/form-topic-split.php:41
+#, php-format
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr ""
+
+#: functions/template-parts.php:1871
+msgid "Next"
+msgstr ""
+
+#: vc_templates/vc_tabs.php:51
+msgid "Next tab"
+msgstr ""
+
+#: bbpress/form-user-edit.php:34
+msgid "Nickname"
+msgstr ""
+
+#: includes/widgets/widget-ads-300x250.php:156
+#: admin/metaboxes/meta-box-master/inc/fields/checkbox.php:82
+msgid "No"
+msgstr ""
+
+#: options-framework/classes/option/control/set.php:376
+msgid "No changes made"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:355
+msgid "No Clients found"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:356
+msgid "No Clients found in Trash"
+msgstr ""
+
+#: comments.php:30 functions/template-functions.php:162
+#: template-parts/single/single-post.php:75
+msgid "No Comments"
+msgstr ""
+
+#: hbframework/admin/utilities/class-demo-importer.php:591
+msgid "No Customizer settings to import."
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:394
+msgid "No FAQ Items found"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:395
+msgid "No FAQ Items found in Trash"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:103
+msgid "No Gallery Items found"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:104
+msgid "No Gallery Items found in Trash"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:299
+msgid "No icon selected"
+msgstr ""
+
+#: includes/core/class-highend-enqueue-scripts.php:151
+msgid "No More Posts"
+msgstr ""
+
+#: bbpress/form-topic-split.php:58
+msgid "No other topics found!"
+msgstr ""
+
+#: includes/portfolio/class-highend-portfolio.php:105
+msgid "No Portfolio Items found"
+msgstr ""
+
+#: includes/portfolio/class-highend-portfolio.php:106
+msgid "No Portfolio Items found in Trash"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:435
+msgid "No Pricing Tables found"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:436
+msgid "No Pricing Tables found in Trash"
+msgstr ""
+
+#: includes/hb-woocommerce.php:298 includes/hb-woocommerce.php:376
+msgid "No products in the cart"
+msgstr ""
+
+#: functions/common.php:331
+msgid "No results found"
+msgstr ""
+
+#: hbframework/integrations.php:79
+msgid "No Slider"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:314
+msgid "No team members have been added yet"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:475
+msgid "No Testimonials found"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:476
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: includes/widgets/widget-latest-posts.php:106
+#: hbframework/admin/utilities/class-sidebar-manager.php:311
+msgid "No Title"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:51
+msgid "No topics were found to which the topic could be merged to!"
+msgstr ""
+
+#: admin/theme-options-dependency.php:133
+#: admin/theme-options-dependency.php:139
+#: admin/theme-options-dependency.php:145
+#: admin/theme-options-dependency.php:187
+#: admin/metaboxes/meta-pricing-table-settings.php:32
+#: admin/metaboxes/meta-general-settings.php:224
+#: admin/metaboxes/meta-general-settings.php:271
+#: admin/metaboxes/meta-portfolio-settings.php:5
+#: admin/metaboxes/meta-contact-page-settings.php:91
+#: admin/metaboxes/meta-box-master/inc/fields/select.php:91
+msgid "None"
+msgstr ""
+
+#: includes/widgets/widget-social-icons.php:123
+#: admin/metaboxes/meta-general-settings.php:186
+msgid "Normal"
+msgstr ""
+
+#: functions/template-parts.php:1477
+msgid "Not happy with the results?"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:129 includes/hb-woocommerce.php:452
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:119
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:315
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: bbpress/form-reply.php:93 bbpress/form-topic.php:139
+msgid "Notify me of follow-up replies via email"
+msgstr ""
+
+#: bbpress/form-reply.php:89 bbpress/form-topic.php:135
+msgid "Notify the author of follow-up replies via email"
+msgstr ""
+
+#: bbpress/form-forum.php:33 bbpress/form-topic.php:31
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr ""
+
+#: includes/widgets/widget-testimonials.php:218
+msgid "Number of testimonials:"
+msgstr ""
+
+#: includes/widgets/widget-most-liked-portfolio.php:179
+#: includes/widgets/widget-most-liked-posts.php:146
+#: includes/widgets/widget-latest-posts-simple.php:171
+#: includes/widgets/widget-most-commented-posts.php:145
+#: includes/widgets/widget-latest-posts.php:174
+msgid "Number:"
+msgstr ""
+
+#: admin/metaboxes/meta-post-format-settings.php:35
+msgid "OGG Audio Link"
+msgstr ""
+
+#: bbpress/feedback-no-forums.php:13
+msgid "Oh bother! No forums were found here!"
+msgstr ""
+
+#: bbpress/feedback-no-replies.php:13
+msgid "Oh bother! No replies were found here!"
+msgstr ""
+
+#: bbpress/feedback-no-topics.php:13
+msgid "Oh bother! No topics were found here!"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:132
+msgid "One Page Menu"
+msgstr ""
+
+#: config/config.php:172
+msgid "Online Shop"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:141
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: includes/widgets/widget-ads-300x250.php:153
+msgid "Open in new tab?"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:255
+msgid "Open link in a new tab"
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-settings.php:135
+msgid "Open Link In New Tab"
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:186
+msgid "Open Links in"
+msgstr ""
+
+#: options-framework/classes/option.php:61
+msgid "Option Key is required"
+msgstr ""
+
+#: hbframework/admin/pages/class-install-plugins-page.php:369
+msgid "Optional"
+msgstr ""
+
+#: hbframework/admin/pages/class-install-plugins-page.php:245
+msgid "Optional plugins available: "
+msgstr ""
+
+#: bbpress/form-reply.php:115 bbpress/form-topic.php:160
+msgid "Optional reason for editing:"
+msgstr ""
+
+#: options-framework/config/messages.php:34
+msgid "Options identical to default"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:638
+#: includes/gallery/class-highend-gallery.php:738
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:78
+#: admin/metaboxes/meta-blog-fw-page-settings.php:76
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:72
+#: admin/metaboxes/meta-blog-grid-page-settings.php:67
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:78
+#: admin/metaboxes/meta-blog-page-minimal-settings.php:49
+#: admin/metaboxes/meta-blog-page-settings.php:67
+msgid "Order"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:625
+#: includes/gallery/class-highend-gallery.php:725
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:48
+#: admin/metaboxes/meta-blog-fw-page-settings.php:46
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:42
+#: admin/metaboxes/meta-blog-grid-page-settings.php:37
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:48
+#: admin/metaboxes/meta-blog-page-minimal-settings.php:19
+#: admin/metaboxes/meta-blog-page-settings.php:37
+msgid "Order By"
+msgstr ""
+
+#: includes/widgets/widget-latest-posts-simple.php:193
+msgid "Order By:"
+msgstr ""
+
+#: includes/widgets/widget-testimonials.php:249
+msgid "Order in:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:53
+msgid "Order number:"
+msgstr ""
+
+#: includes/widgets/widget-testimonials.php:240
+msgid "Order testimonials by:"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:81
+msgid "Order Total"
+msgstr ""
+
+#: includes/widgets/widget-latest-posts-simple.php:206
+msgid "Order:"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:460
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: includes/hb-woocommerce.php:197
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/content-product.php:147
+msgid "OUT OF STOCK"
+msgstr ""
+
+#: functions/breadcrumbs.php:262
+msgid "Page "
+msgstr ""
+
+#: admin/metaboxes/meta-layout-settings.php:22
+msgid "Page Layout"
+msgstr ""
+
+#: options-framework/classes/option.php:65
+msgid "Page Slug is required"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:67
+msgid "Page Title Advanced Settings"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:48
+msgid "Page Title Advanced Settings."
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:85
+msgid "Page Title with Background Image"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:81
+msgid "Page Title with Simple Background Color"
+msgstr ""
+
+#: page.php:36
+msgid "Pages:"
+msgstr ""
+
+#: admin/metaboxes/meta-blog-fw-page-settings.php:102
+#: admin/metaboxes/meta-blog-fw-page-settings.php:130
+#: admin/metaboxes/meta-blog-grid-page-settings.php:93
+#: admin/metaboxes/meta-blog-page-minimal-settings.php:75
+#: admin/metaboxes/meta-blog-page-settings.php:93
+msgid "Pagination Style"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:116
+#: admin/metaboxes/meta-featured-page-section.php:123
+msgid "Parallax"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:581
+msgid "Parent Client Category"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:582
+msgid "Parent Client Category:"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:517
+msgid "Parent FAQ Category"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:518
+msgid "Parent FAQ Category:"
+msgstr ""
+
+#: bbpress/form-forum.php:127
+msgid "Parent Forum:"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:155
+msgid "Parent Gallery Category"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:156
+msgid "Parent Gallery Category:"
+msgstr ""
+
+#: includes/portfolio/class-highend-portfolio.php:159
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: includes/portfolio/class-highend-portfolio.php:160
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:613
+msgid "Parent Team Member Category"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:614
+msgid "Parent Team Member Category:"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:549
+msgid "Parent Testimonial Category"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:550
+msgid "Parent Testimonial Category:"
+msgstr ""
+
+#: includes/login-form.php:10 bbpress/form-user-login.php:22
+#: template-parts/misc/login-form.php:19
+msgid "Password"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:76
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:126 includes/hb-woocommerce.php:449
+msgid "Perfect"
+msgstr ""
+
+#: admin/metaboxes/meta-pricing-table-settings.php:69
+msgid "Period"
+msgstr ""
+
+#: includes/widgets/widget-contact-info.php:139
+msgid "Person:"
+msgstr ""
+
+#: includes/widgets/widget-contact-info.php:148
+msgid "Phone:"
+msgstr ""
+
+#: config/config.php:32
+msgid "Photography"
+msgstr ""
+
+#: functions/template-parts.php:1550
+msgid ""
+"Please add widgets to this widgetized area (\"Side Panel Section\") in "
+"Appearance > Widgets."
+msgstr ""
+
+#: template-parts/header/navigation.php:39
+msgid "Please attach a menu to this menu location in Appearance > Menu."
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/validation.php:49
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: admin/metaboxes/meta-team-member-settings.php:18
+msgid "Please enter team member's position in your company."
+msgstr ""
+
+#: hbframework/admin/pages/class-sidebar-manager-page.php:108
+msgid "Please fill in sidebar name and description."
+msgstr ""
+
+#: bbpress/bbpress-functions.php:358
+msgid "Please login to make this topic a favorite."
+msgstr ""
+
+#: bbpress/bbpress-functions.php:290
+msgid "Please login to subscribe to this forum."
+msgstr ""
+
+#: bbpress/bbpress-functions.php:426
+msgid "Please login to subscribe to this topic."
+msgstr ""
+
+#: admin/metaboxes/meta-clients-settings.php:7
+msgid ""
+"Please use the featured image metabox to upload your Clients Logo and then "
+"assign to the post."
+msgstr ""
+
+#: hbframework/admin/pages/class-sidebar-manager-page.php:192
+msgid "Please wait..."
+msgstr ""
+
+#: hbframework/admin/pages/class-install-plugins-page.php:315
+msgid "plugin"
+msgstr ""
+
+#: hbframework/admin/utilities/class-install-plugins.php:278
+#, php-format
+msgid "Plugin %s is successfully activated."
+msgstr ""
+
+#: hbframework/admin/utilities/class-install-plugins.php:323
+#, php-format
+msgid "Plugin %s is successfully deactivated."
+msgstr ""
+
+#: hbframework/admin/utilities/class-install-plugins.php:195
+#, php-format
+msgid "Plugin activated: %s."
+msgstr ""
+
+#: hbframework/admin/utilities/class-install-plugins.php:233
+#, php-format
+msgid "Plugin deactivated: %s."
+msgstr ""
+
+#: hbframework/admin/utilities/class-install-plugins.php:130
+#, php-format
+msgid "Plugin installed: %s."
+msgstr ""
+
+#: hbframework/admin/utilities/class-install-plugins.php:188
+msgid "Plugin is already activated."
+msgstr ""
+
+#: hbframework/admin/utilities/class-install-plugins.php:190
+#, php-format
+msgid "Plugin is already activated: %s."
+msgstr ""
+
+#: hbframework/admin/utilities/class-install-plugins.php:86
+#: hbframework/admin/utilities/class-install-plugins.php:123
+msgid "Plugin is already installed."
+msgstr ""
+
+#: hbframework/admin/utilities/class-install-plugins.php:228
+#, php-format
+msgid "Plugin not active: %s."
+msgstr ""
+
+#: hbframework/admin/pages/class-install-plugins-page.php:315
+msgid "plugins"
+msgstr ""
+
+#: includes/portfolio/class-highend-portfolio.php:96
+msgid "Portfolio"
+msgstr ""
+
+#: includes/widgets/widget-portfolio.php:67
+#: includes/widgets/widget-portfolio.php:69
+msgid "portfolio"
+msgstr ""
+
+#. Name of the template
+msgid "Portfolio - Simple"
+msgstr ""
+
+#. Name of the template
+msgid "Portfolio - Standard"
+msgstr ""
+
+#: includes/portfolio/class-highend-portfolio.php:155
+msgid "Portfolio Categories"
+msgstr ""
+
+#: includes/portfolio/class-highend-portfolio.php:156
+msgid "Portfolio Category"
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:146
+msgid "Portfolio Column Count"
+msgstr ""
+
+#: includes/portfolio/class-highend-portfolio.php:98
+msgid "Portfolio Item"
+msgstr ""
+
+#: includes/widgets/widget-portfolio-random.php:176
+#: includes/widgets/widget-portfolio.php:176
+msgid "Portfolio Item Number: "
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:34
+msgid "Portfolio Items Per Page"
+msgstr ""
+
+#: includes/portfolio/class-highend-portfolio.php:223
+msgid "Portfolio Layout Settings"
+msgstr ""
+
+#: includes/portfolio/class-highend-portfolio.php:211
+msgid "Portfolio Page Settings"
+msgstr ""
+
+#: includes/portfolio/class-highend-portfolio.php:199
+msgid "Portfolio Template Settings"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:606
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:105
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:99
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:105
+msgid "Portrait"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:906
+#, php-format
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:1876
+#, php-format
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:1963
+#, php-format
+msgid ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could not be "
+"found"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:1857
+#, php-format
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:1902
+#, php-format
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: admin/metabox/class-metabox.php:189
+msgid "Post Format Settings"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:92
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: template-parts/entry/description-blog.php:51
+#: template-parts/single/single-post.php:32
+msgid "Posted by"
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:67
+msgid "Poster Image"
+msgstr ""
+
+#: bbpress/loop-forums.php:21 bbpress/loop-topics.php:21
+msgid "Posts"
+msgstr ""
+
+#: functions/common.php:285 functions/template-functions.php:118
+msgid "Posts by"
+msgstr ""
+
+#. Description of the theme
+msgid "Premium Responsive Multi-Purpose Theme."
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:77
+msgid "Preparing import..."
+msgstr ""
+
+#: config/config.php:47
+msgid "Presentation"
+msgstr ""
+
+#: admin/metabox/class-metabox.php:146
+msgid "Presentation Settings"
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:8
+msgid "Presentation Slides"
+msgstr ""
+
+#: functions/template-parts.php:1864
+msgid "Prev"
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:174
+#: admin/metaboxes/meta-box-master/inc/fields/oembed.php:81
+msgid "Preview"
+msgstr ""
+
+#: vc_templates/vc_tabs.php:51
+msgid "Previous tab"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:101
+#: admin/metaboxes/meta-pricing-table-settings.php:62
+msgid "Price"
+msgstr ""
+
+#: admin/metaboxes/meta-pricing-table-settings.php:27
+msgid "Pricing Ribbon."
+msgstr ""
+
+#: admin/metabox/class-metabox.php:68
+msgid "Pricing Settings"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:428
+msgid "Pricing Table"
+msgstr ""
+
+#: admin/metaboxes/meta-pricing-table-settings.php:8
+msgid "Pricing Table Column"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:426
+msgid "Pricing Tables"
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:164
+msgid "Primary Button Link"
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:158
+msgid "Primary Button Text"
+msgstr ""
+
+#: bbpress/feedback-no-access.php:13
+msgid "Private"
+msgstr ""
+
+#: woocommerce/cart/cart.php:148
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: includes/hb-woocommerce.php:337 includes/hb-woocommerce.php:409
+msgid "Proceed to checkout"
+msgstr ""
+
+#: woocommerce/cart/cart.php:34 woocommerce/cart/cart.php:81
+msgid "Product"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:43
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:71 woocommerce/loop/orderby.php:73
+#: woocommerce/loop/orderby.php:74 woocommerce/loop/orderby.php:75
+#: woocommerce/loop/orderby.php:76
+msgid "Products"
+msgstr ""
+
+#: includes/hb-woocommerce.php:537
+msgid "products"
+msgstr ""
+
+#: bbpress/user-details.php:16
+#, php-format
+msgid "Profile: %s"
+msgstr ""
+
+#: bbpress/form-protected.php:14
+msgid "Protected"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:107
+#: woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#: admin/metaboxes/meta-post-format-settings.php:66
+msgid "Quote Post Format"
+msgstr ""
+
+#: page-templates/gallery-fullwidth.php:55
+#: includes/gallery/class-highend-gallery.php:631
+#: includes/gallery/class-highend-gallery.php:730
+#: includes/widgets/widget-testimonials.php:243
+#: includes/widgets/widget-latest-posts-simple.php:200
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:69
+#: admin/metaboxes/meta-blog-fw-page-settings.php:67
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:63
+#: admin/metaboxes/meta-blog-grid-page-settings.php:58
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:69
+#: admin/metaboxes/meta-blog-page-minimal-settings.php:40
+#: admin/metaboxes/meta-blog-page-settings.php:58
+msgid "Random"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:125 includes/hb-woocommerce.php:448
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/content-product.php:146
+msgid "READ MORE"
+msgstr ""
+
+#: includes/widgets/widget-latest-posts-simple.php:80
+#: template-parts/entry/description-blog-grid.php:73
+#: template-parts/entry/description-blog.php:93
+msgid "Read More"
+msgstr ""
+
+#: template-parts/entry/description-blog-small.php:75
+msgid "Read More "
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:103
+msgid ""
+"Read theme docs and watch video guides to learn how to use the theme "
+"efficiently."
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: includes/login-form.php:15 template-parts/misc/login-form.php:26
+msgid "Register"
+msgstr ""
+
+#: admin/metaboxes/meta-blog-page-settings.php:24
+msgid "Regular"
+msgstr ""
+
+#: woocommerce/single-product/related.php:28
+msgid "Related products"
+msgstr ""
+
+#: includes/portfolio-related-items.php:32
+msgid "Related Projects"
+msgstr ""
+
+#: hbframework/admin/pages/class-install-plugins-page.php:352
+msgid "Reloading..."
+msgstr ""
+
+#: includes/login-form.php:12 template-parts/misc/login-form.php:23
+msgid "Remember me?"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:1806
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:1817
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:1793
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:473
+#: options-framework/classes/metabox.php:564
+#: options-framework/classes/metabox.php:564
+#: hbframework/admin/pages/class-demo-importer-page.php:283
+#: options-framework/classes/metabox/alchemy.php:493
+#: options-framework/classes/metabox/alchemy.php:493
+#: admin/metaboxes/meta-box-master/inc/fields/file-input.php:51
+msgid "Remove"
+msgstr ""
+
+#: includes/hb-woocommerce.php:323 includes/hb-woocommerce.php:396
+#: woocommerce/cart/cart.php:60
+msgid "Remove this item"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:22
+msgid "Rename"
+msgstr ""
+
+#: bbpress/loop-forums.php:21 bbpress/loop-topics.php:21
+msgid "Replies"
+msgstr ""
+
+#: bbpress/form-reply.php:27
+#, php-format
+msgid "Reply To: %s"
+msgstr ""
+
+#: bbpress/form-reply.php:58
+msgid "Reply:"
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:186
+msgid "Request a Quote"
+msgstr ""
+
+#: hbframework/admin/pages/class-install-plugins-page.php:368
+msgid "Required"
+msgstr ""
+
+#: bbpress/form-user-lost-pass.php:27
+msgid "Reset My Password"
+msgstr ""
+
+#: options-framework/config/messages.php:35
+msgid "Restoration failed"
+msgstr ""
+
+#: options-framework/config/messages.php:33
+msgid "Restoration succeed, option page will be refreshed.."
+msgstr ""
+
+#: options-framework/classes/option.php:479
+#: options-framework/views/option/restore.php:13
+msgid "Restore Default"
+msgstr ""
+
+#: options-framework/views/option/restore.php:4
+msgid "Restore Default Options"
+msgstr ""
+
+#: options-framework/views/option/restore.php:7
+msgid "Restore options to initial default values."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:31
+msgid "Return to shop"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr ""
+
+#: bbpress/form-reply.php:108 bbpress/form-topic.php:153
+msgid "Revision"
+msgstr ""
+
+#: admin/metaboxes/meta-featured-page-section.php:66
+#: admin/metaboxes/meta-portfolio-settings.php:60
+#: admin/metaboxes/meta-portfolio-settings.php:95
+msgid "Revolution Slider"
+msgstr ""
+
+#: admin/metaboxes/meta-pricing-table-settings.php:48
+msgid "Ribbon"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:318
+#: admin/metaboxes/meta-general-settings.php:140
+#: admin/metaboxes/meta-presentation-settings.php:130
+msgid "Right"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:417
+msgid "Right Bottom"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:416
+msgid "Right Center"
+msgstr ""
+
+#: bbpress/bbpress-functions.php:484
+msgid "right now"
+msgstr ""
+
+#: admin/metaboxes/meta-layout-settings.php:35
+#: admin/metaboxes/meta-team-layout-settings.php:56
+#: admin/metaboxes/meta-portfolio-layout-settings.php:85
+msgid "Right Sidebar"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:244
+#: admin/metaboxes/meta-general-settings.php:291
+#: admin/metaboxes/meta-contact-page-settings.php:111
+msgid "Right To Left"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:415
+msgid "Right Top"
+msgstr ""
+
+#: bbpress/form-user-edit.php:142
+msgid "Role:"
+msgstr ""
+
+#. for when debug logging is off
+#: hbframework/vendor/importer/class-wxr-importer.php:1839
+#, php-format
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:195
+msgid "Same Tab"
+msgstr ""
+
+#: hbframework/admin/pages/class-sidebar-manager-page.php:192
+msgid "Save"
+msgstr ""
+
+#: bbpress/form-user-edit.php:169 options-framework/views/option/set.php:71
+#: options-framework/views/option/set.php:86
+msgid "Save Changes"
+msgstr ""
+
+#: functions/template-functions.php:266
+msgid "Save my name and email in this browser for the next time I comment."
+msgstr ""
+
+#: options-framework/classes/option/control/set.php:370
+msgid "Saving failed"
+msgstr ""
+
+#: options-framework/views/option/set.php:72
+#: options-framework/views/option/set.php:87
+msgid "Saving Now"
+msgstr ""
+
+#: options-framework/classes/option/control/set.php:359
+msgid "Saving successful"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:248
+#: admin/metaboxes/meta-general-settings.php:295
+#: admin/metaboxes/meta-contact-page-settings.php:115
+msgid "Scale Up"
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:81
+msgid "Script timed out. Please refresh the page and try again."
+msgstr ""
+
+#. Name of the template
+msgid "Scrolling Presentation"
+msgstr ""
+
+#: functions/template-parts.php:317
+msgid "Search"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:579
+msgid "Search Client Categories"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:515
+msgid "Search FAQ Categories"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:354
+msgid "Search For Clients"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:393
+msgid "Search For FAQ Items"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:102
+msgid "Search For Gallery Items"
+msgstr ""
+
+#: includes/portfolio/class-highend-portfolio.php:104
+msgid "Search For Portfolio Items"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:434
+msgid "Search For Pricing Tables"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:474
+msgid "Search For Testimonials"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:153
+msgid "Search Gallery Categories"
+msgstr ""
+
+#: includes/portfolio/class-highend-portfolio.php:157
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: functions/breadcrumbs.php:242 functions/common.php:273
+msgid "Search Results"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:611
+msgid "Search Team Member Categories"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:313
+msgid "Search Team Members"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:547
+msgid "Search Testimonial Categories"
+msgstr ""
+
+#: hbframework/hooks.php:60
+msgid "Search..."
+msgstr ""
+
+#: bbpress/bbpress-functions.php:495
+#: includes/core/class-highend-enqueue-scripts.php:158
+msgid "second"
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:178
+msgid "Secondary Button Link"
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:172
+msgid "Secondary Button Text"
+msgstr ""
+
+#: page-templates/maintenance.php:125 bbpress/bbpress-functions.php:495
+#: includes/core/class-highend-enqueue-scripts.php:159
+msgid "seconds"
+msgstr ""
+
+#: vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:83
+msgid "Security check failed. Please refresh the page and try again."
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/file-input.php:49
+#: admin/metaboxes/meta-box-master/inc/fields/select.php:91
+msgid "Select"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/taxonomy.php:51
+#: admin/metaboxes/meta-box-master/inc/fields/post.php:38
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:200
+msgid "Select a color scheme for your page title."
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:39
+msgid "Select a country / region&hellip;"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/post.php:34
+msgid "Select a post"
+msgstr ""
+
+#: includes/tinymce/hbthemes-shortcodes-iframe.php:67
+msgid "Select a Shortcode"
+msgstr ""
+
+#: includes/tinymce/hbthemes-shortcodes-iframe.php:53
+msgid ""
+"Select a shortcode from the list above and the options will appear here. "
+"Shortcodes are sorted alphabetically. Shortcodes has to be in columns, "
+"except some specific. For more info check out Highend Documentation section "
+"regarding Shortcodes."
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/taxonomy.php:47
+msgid "Select a term"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:173
+msgid "Select a the height of the Page Title Section."
+msgstr ""
+
+#: admin/metaboxes/meta-contact-page-settings.php:87
+msgid "Select an entrance animation for the contact form box."
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:266
+msgid "Select an entrance animation for the subtitle."
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:220
+msgid "Select an entrance animation for the title."
+msgstr ""
+
+#: options-framework/config/messages.php:45
+msgid "Select an Icon"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/select-advanced.php:44
+msgid "Select an item"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:65
+msgid "Select an option&hellip;"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/user.php:34
+msgid "Select an user"
+msgstr ""
+
+#: options-framework/config/messages.php:21
+msgid "Select at least {0} items"
+msgstr ""
+
+#: admin/metaboxes/meta-blog-fw-page-settings.php:94
+#: admin/metaboxes/meta-blog-grid-page-settings.php:85
+#: admin/metaboxes/meta-blog-page-minimal-settings.php:67
+#: admin/metaboxes/meta-blog-page-settings.php:85
+msgid "Select Categories"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/file-input.php:25
+msgid "Select File"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:402
+msgid "Select image position."
+msgstr ""
+
+#: options-framework/config/messages.php:20
+msgid "Select no more than {0} items"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:73
+msgid "Select one of the following title layouts."
+msgstr ""
+
+#: options-framework/config/messages.php:43
+msgid "Select option(s)"
+msgstr ""
+
+#: woocommerce/content-product.php:156
+msgid "Select options"
+msgstr ""
+
+#: admin/metaboxes/meta-blog-fw-page-settings.php:31
+#: admin/metaboxes/meta-blog-grid-page-settings.php:31
+msgid ""
+"Select the grid layout. Choose between Standard (fit rows) and Masonry "
+"styling."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:29
+msgid ""
+"Select the topic to merge this one into. The destination topic will remain "
+"the lead topic, and this one will change into a reply."
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:433
+msgid "Select Widget Area"
+msgstr ""
+
+#: template-parts/misc/special-contact-form.php:26
+msgid "Send"
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:158
+#: hbframework/admin/pages/class-about-page.php:160
+msgid "Set Front Page"
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-settings.php:136
+msgid "Set if the button will open the link in a new tab."
+msgstr ""
+
+#: template-parts/misc/share-dropdown.php:20
+msgid "Share"
+msgstr ""
+
+#: bbpress/form-user-edit.php:84
+msgid ""
+"Share a little biographical information to fill out your profile. This may "
+"be shown publicly."
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr ""
+
+#: functions/breadcrumbs.php:138 functions/breadcrumbs.php:252
+msgid "Shop"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:38
+msgid "Shop order"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:71 woocommerce/loop/orderby.php:73
+#: woocommerce/loop/orderby.php:74 woocommerce/loop/orderby.php:75
+#: woocommerce/loop/orderby.php:76 admin/metaboxes/meta-general-settings.php:22
+#: admin/metaboxes/meta-layout-settings.php:63
+msgid "Show"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:341
+msgid "Show Captions"
+msgstr ""
+
+#: includes/widgets/widget-latest-posts-simple.php:214
+msgid "Show Excerpt?"
+msgstr ""
+
+#: functions/template-parts.php:1007
+msgid "Show Newest First"
+msgstr ""
+
+#: admin/metaboxes/meta-layout-settings.php:105
+msgid "Show Pre Footer Area"
+msgstr ""
+
+#: includes/widgets/widget-latest-posts-simple.php:217
+msgid "Show Thumb?"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:426
+msgid "Show Widget"
+msgstr ""
+
+#: admin/metaboxes/meta-layout-settings.php:84
+#: admin/metaboxes/meta-layout-settings.php:126
+msgid "Show Widgets"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:190
+msgid "Side Panel Section"
+msgstr ""
+
+#: config/customizer/customizer.php:613
+msgid "Side Section Background Color"
+msgstr ""
+
+#: hbframework/admin/pages/class-sidebar-manager-page.php:133
+msgid "Sidebar created."
+msgstr ""
+
+#: hbframework/admin/pages/class-sidebar-manager-page.php:158
+msgid "Sidebar does not exists."
+msgstr ""
+
+#: hbframework/hooks.php:126
+#: hbframework/admin/pages/class-sidebar-manager-page.php:33
+#: hbframework/admin/pages/class-sidebar-manager-page.php:34
+#: hbframework/admin/pages/class-sidebar-manager-page.php:196
+msgid "Sidebar Manager"
+msgstr ""
+
+#: hbframework/admin/pages/class-sidebar-manager-page.php:215
+msgid "Sidebar Name"
+msgstr ""
+
+#: admin/metaboxes/meta-team-layout-settings.php:43
+#: admin/metaboxes/meta-portfolio-layout-settings.php:72
+msgid "Sidebar Position"
+msgstr ""
+
+#: hbframework/admin/pages/class-sidebar-manager-page.php:166
+msgid "Sidebar removed."
+msgstr ""
+
+#: admin/metaboxes/meta-layout-settings.php:47
+msgid "Sidebars"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:155
+msgid "Simple"
+msgstr ""
+
+#: config/config.php:62
+msgid "Simple Blog"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:848
+#, php-format
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: woocommerce/single-product/title.php:33
+msgid "SKU:"
+msgstr ""
+
+#: includes/widgets/widget-contact-info.php:160
+msgid "Skype Username:"
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:56
+msgid "Slide Background Image"
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:15
+msgid "Slide Name"
+msgstr ""
+
+#: hbframework/admin/utilities/class-demo-importer.php:750
+msgid "Slider Import failed."
+msgstr ""
+
+#: hbframework/admin/utilities/class-demo-importer.php:762
+msgid "Slider Import failed. Revslider import files not found."
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:257
+msgid "Sliders"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:40
+msgid "Slug:"
+msgstr ""
+
+#: includes/widgets/widget-social-icons.php:124
+#: admin/metaboxes/meta-general-settings.php:190
+#: admin/metaboxes/meta-blog-page-settings.php:28
+msgid "Small"
+msgstr ""
+
+#: admin/class-highend-admin.php:124
+msgid "Social Networking"
+msgstr ""
+
+#: woocommerce/content-product.php:131
+msgid "Sold out"
+msgstr ""
+
+#: admin/metaboxes/meta-background-settings.php:20
+#: admin/metaboxes/meta-background-settings.php:28
+msgid "Solid Color"
+msgstr ""
+
+#: bbpress/bbpress-functions.php:248 bbpress/bbpress-functions.php:257
+msgid "Something went wrong. Refresh your browser and try again."
+msgstr ""
+
+#: bbpress/bbpress-functions.php:483
+msgid "sometime"
+msgstr ""
+
+#: functions/template-parts.php:2007
+msgid "Sorry, but we couldn't find the content you were looking for."
+msgstr ""
+
+#: hbframework/vendor/importer/class-logger-html.php:17
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: page-templates/gallery-fullwidth.php:50
+msgid "Sort by"
+msgstr ""
+
+#: functions/template-parts.php:1012
+msgid "Sort by Name"
+msgstr ""
+
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:33
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:26
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:33
+msgid "Sorter"
+msgstr ""
+
+#: admin/metaboxes/meta-post-format-settings.php:29
+msgid "SoundCloud Link."
+msgstr ""
+
+#: admin/metaboxes/meta-pricing-table-settings.php:77
+msgid ""
+"Specify a list of features for your pricing plan. You can use lists and "
+"shortcodes here. If you want to use different button that the one provided "
+"below, use button shortcode for that."
+msgstr ""
+
+#: admin/metaboxes/meta-pricing-table-settings.php:15
+msgid "Specify an accent color for this pricing table item."
+msgstr ""
+
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:90
+#: admin/metaboxes/meta-blog-fw-page-settings.php:88
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:84
+#: admin/metaboxes/meta-blog-grid-page-settings.php:79
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:90
+#: admin/metaboxes/meta-blog-page-minimal-settings.php:61
+#: admin/metaboxes/meta-blog-page-settings.php:79
+msgid ""
+"Specify if the chosen order by will be displayed in ascending or descending "
+"order."
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:704
+msgid ""
+"Specify the carousel speed in miliseconds, enter just a number. Example: "
+"2000."
+msgstr ""
+
+#: admin/metaboxes/meta-background-settings.php:52
+msgid "Specify the color of the content area."
+msgstr ""
+
+#: admin/metaboxes/meta-blog-fw-page-settings.php:95
+#: admin/metaboxes/meta-blog-grid-page-settings.php:86
+#: admin/metaboxes/meta-blog-page-minimal-settings.php:68
+#: admin/metaboxes/meta-blog-page-settings.php:86
+msgid "Specify which categories will be displayed in this blog page."
+msgstr ""
+
+#: admin/metaboxes/meta-pricing-table-settings.php:63
+msgid "Specify your pricing plan price. Change the default value."
+msgstr ""
+
+#: admin/metaboxes/meta-pricing-table-settings.php:56
+msgid "Specify your pricing plan title. Change the default value."
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:700
+msgid "Speed"
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-layout-settings.php:39
+msgid "Split"
+msgstr ""
+
+#: bbpress/form-topic-split.php:37
+msgid "Split Method"
+msgstr ""
+
+#: bbpress/form-topic-split.php:24
+#, php-format
+msgid "Split topic \"%s\""
+msgstr ""
+
+#: bbpress/form-topic-split.php:42
+#, php-format
+msgid "Split: %s"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:669
+#: admin/metaboxes/meta-blog-fw-page-settings.php:24
+#: admin/metaboxes/meta-blog-fw-page-settings.php:107
+#: admin/metaboxes/meta-blog-fw-page-settings.php:135
+#: admin/metaboxes/meta-blog-grid-page-settings.php:24
+#: admin/metaboxes/meta-blog-grid-page-settings.php:98
+#: admin/metaboxes/meta-blog-page-minimal-settings.php:80
+#: admin/metaboxes/meta-blog-page-settings.php:98
+msgid "Standard"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:207
+msgid "Standard Gallery Template Settings"
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:192
+msgid "Starting at $29/mo"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:59
+#: woocommerce/cart/shipping-calculator.php:64
+#: woocommerce/cart/shipping-calculator.php:76
+msgid "State / County"
+msgstr ""
+
+#: bbpress/form-forum.php:109
+msgid "Status:"
+msgstr ""
+
+#: admin/metaboxes/meta-misc-settings.php:32
+msgid "Stretched"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:408
+msgid "Stretched Centered"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:665
+#: admin/metaboxes/meta-general-settings.php:150
+msgid "Style"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:310
+msgid "Sub Menu Alignment"
+msgstr ""
+
+#: template-parts/misc/quick-contact-form.php:27
+#: template-parts/misc/special-contact-form.php:20
+msgid "Subject"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81 bbpress/form-reply.php:134
+#: bbpress/form-forum.php:147 bbpress/form-topic-merge.php:90
+#: bbpress/form-topic.php:175 bbpress/form-topic-split.php:94
+msgid "Submit"
+msgstr ""
+
+#: comments.php:72
+msgid "Submit Comment"
+msgstr ""
+
+#: bbpress/user-subscriptions.php:21
+msgid "Subscribed Forum Topics"
+msgstr ""
+
+#: bbpress/bbpress-functions.php:285 bbpress/bbpress-functions.php:421
+msgid "Subscriptions are no longer active."
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:41
+#: admin/metaboxes/meta-presentation-settings.php:109
+msgid "Subtitle"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:267
+msgid "Subtitle Animation"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:129
+msgid "Subtotal"
+msgstr ""
+
+#: options-framework/bootstrap.php:87 options-framework/classes/option.php:364
+#: options-framework/classes/option.php:389
+msgid "Successful"
+msgstr ""
+
+#: bbpress/form-user-edit.php:153
+msgid "Super Admin"
+msgstr ""
+
+#: functions/breadcrumbs.php:228
+#, php-format
+msgid ""
+"Tag <span class=\"sep-icon\"><i class=\"icon-angle-right\"></i></span> %s"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:24
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-parts/single/single-post.php:68
+msgid "Tags"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:609
+msgid "Team Categories"
+msgstr ""
+
+#: admin/metabox/class-metabox.php:100
+msgid "Team Layout Settings"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:307
+msgid "Team Member"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:610
+msgid "Team Member Category"
+msgstr ""
+
+#: admin/metaboxes/meta-team-member-settings.php:9
+msgid "Team Member Image"
+msgstr ""
+
+#: admin/metaboxes/meta-team-member-settings.php:17
+msgid "Team Member Position"
+msgstr ""
+
+#: admin/metabox/class-metabox.php:115
+msgid "Team Member Settings"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:305
+msgid "Team Members"
+msgstr ""
+
+#: options-framework/classes/option.php:63
+msgid "Template Array/File is required"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:1740
+#, php-format
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: functions/common.php:251 includes/core/class-highend-theme-setup.php:468
+msgid "Testimonial"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:545
+msgid "Testimonial Categories"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:546
+msgid "Testimonial Category"
+msgstr ""
+
+#: admin/metabox/class-metabox.php:84
+msgid "Testimonial Settings"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:466
+msgid "Testimonials"
+msgstr ""
+
+#: config/customizer/customizer.php:426 config/customizer/customizer.php:469
+#: config/customizer/customizer.php:505 config/customizer/customizer.php:541
+#: config/customizer/customizer.php:559 config/customizer/customizer.php:586
+msgid "Text Color"
+msgstr ""
+
+#: config/customizer/customizer.php:478 config/customizer/customizer.php:523
+msgid "Text Color (Sticky)"
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:74
+msgid ""
+"Thank you for choosing Highend &mdash; the ultimate tool for building "
+"professional websites. Use the tips below to get started. You will be up and "
+"running in no time."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:46 woocommerce/checkout/thankyou.php:90
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: includes/customizer/settings/colors.php:33
+msgid ""
+"The accent color is used subtly throughout your site, to call attention to "
+"key elements."
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:274
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:504
+msgid "The file does not exist"
+msgstr ""
+
+#: bbpress/form-forum.php:170
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr ""
+
+#: bbpress/form-reply.php:165 bbpress/form-topic.php:198
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+
+#: bbpress/bbpress-functions.php:307
+msgid "The forum could not be found."
+msgstr ""
+
+#: bbpress/bbpress-functions.php:320 bbpress/bbpress-functions.php:388
+#: bbpress/bbpress-functions.php:456
+msgid "The request was unsuccessful. Please try again."
+msgstr ""
+
+#: bbpress/form-reply.php:157
+#, php-format
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr ""
+
+#: bbpress/bbpress-functions.php:375 bbpress/bbpress-functions.php:443
+msgid "The topic could not be found."
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:241
+msgid "Theme Options"
+msgstr ""
+
+#: hbframework/admin/utilities/class-demo-importer.php:363
+msgid "Theme Options import failed."
+msgstr ""
+
+#: hbframework/admin/utilities/class-demo-importer.php:365
+msgid "Theme Options import failed. Import file theme_options.txt not found."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:57
+msgid "There are no other topics in this forum to merge with."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+msgid "There are no reviews yet."
+msgstr ""
+
+#: template-parts/content/content-none.php:43
+msgid "There aren&rsquo;t any posts currently published in this category."
+msgstr ""
+
+#: template-parts/content/content-none.php:55
+msgid "There aren&rsquo;t any posts currently published under this tag."
+msgstr ""
+
+#: template-parts/content/content-none.php:49
+msgid "There aren&rsquo;t any posts currently published under this taxonomy."
+msgstr ""
+
+#: bbpress/form-user-edit.php:117
+#, php-format
+msgid ""
+"There is a pending email address change to <code>%1$s</code>. <a "
+"href=\"%2$s\">Cancel</a>"
+msgstr ""
+
+#: hbframework/admin/pages/class-install-plugins-page.php:259
+#, php-format
+msgid "There is an update available for %s"
+msgid_plural "There are updates available for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/theme-options-dependency.php:165
+#: admin/theme-options-dependency.php:207
+msgid "Thick Bottom Border Effect"
+msgstr ""
+
+#: template-parts/misc/author-info.php:46
+msgid "This author hasn't written their bio yet."
+msgstr ""
+
+#: template-parts/entry/description-blog-small.php:27
+#: template-parts/entry/description-blog-grid.php:48
+#: template-parts/entry/description-blog.php:71
+#: template-parts/entry/entry-blog-minimal.php:76
+msgid ""
+"This content is password protected. To view it please go to the post page "
+"and enter the password."
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:197
+msgid "This demo requires the following plugins:"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:91
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr ""
+
+#: bbpress/form-forum.php:45
+msgid ""
+"This forum is closed to new content, however your account still allows you "
+"to do so."
+msgstr ""
+
+#: bbpress/form-topic.php:43
+msgid ""
+"This forum is marked as closed to new topics, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:179
+msgid ""
+"This is a default sidebar for widgets. You can create unlimited sidebars in "
+"Highend > Sidebar Manager. You need to select this sidebar in page meta "
+"settings to display it."
+msgstr ""
+
+#: hbframework/admin/utilities/class-sidebar-manager.php:29
+#: hbframework/admin/pages/class-sidebar-manager-page.php:192
+msgid "This is a widgetized area."
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:203
+msgid "This is an area for widgets. Drag and drop your widgets here."
+msgstr ""
+
+#: options-framework/config/messages.php:22
+msgid "This is required"
+msgstr ""
+
+#: options-framework/views/option/set.php:95
+#, php-format
+msgid ""
+"This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+"framework\">Vafpress Framework %s</a> powered by <a href=\"http://vafpress."
+"com\">Vafpress</a>"
+msgstr ""
+
+#: functions/common.php:270
+msgid "This page doesn&rsquo;t seem to exist."
+msgstr ""
+
+#: comments.php:20
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: hbframework/admin/utilities/class-demo-importer.php:399
+msgid "This template has no Sidebars to import."
+msgstr ""
+
+#: bbpress/form-reply.php:34
+msgid ""
+"This topic is marked as closed to new replies, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: bbpress/user-favorites.php:30
+msgid "This user has no favorite topics."
+msgstr ""
+
+#: bbpress/user-topics-created.php:30
+msgid "This user has not created any topics."
+msgstr ""
+
+#: bbpress/user-subscriptions.php:34
+msgid "This user is not currently subscribed to any topics."
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:166
+#: hbframework/vendor/importer/class-wxr-importer.php:282
+#: hbframework/vendor/importer/class-wxr-importer.php:355
+#, php-format
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) and may "
+"not be supported. Please consider updating."
+msgstr ""
+
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:96
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:90
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:96
+msgid "Thumbnail Orientation"
+msgstr ""
+
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:114
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:108
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:114
+msgid "Thumbnail Ratio"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:630
+#: includes/gallery/class-highend-gallery.php:729
+#: includes/widgets/widget-latest-posts-simple.php:197
+#: admin/metaboxes/meta-pricing-table-settings.php:55
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:57
+#: admin/metaboxes/meta-general-settings.php:34
+#: admin/metaboxes/meta-blog-fw-page-settings.php:55
+#: admin/metaboxes/meta-portfolio-standard-page-settings.php:51
+#: admin/metaboxes/meta-blog-grid-page-settings.php:46
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:57
+#: admin/metaboxes/meta-blog-page-minimal-settings.php:28
+#: admin/metaboxes/meta-presentation-settings.php:102
+#: admin/metaboxes/meta-blog-page-settings.php:46
+msgid "Title"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:219
+msgid "Title Animation"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:248
+msgid "Title Attribute"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:72
+msgid "Title Layout"
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:117
+msgid "Title Position"
+msgstr ""
+
+#: admin/metaboxes/meta-gallery-fw-page-settings.php:20
+#: admin/metaboxes/meta-gallery-standard-page-settings.php:20
+msgid "Title showed above gallery thumbs. Leave empty to disable the title."
+msgstr ""
+
+#: includes/gallery/gallery-widget.php:165
+#: includes/portfolio/gallery-widget.php:165
+#: includes/widgets/widget-most-liked-portfolio.php:175
+#: includes/widgets/widget-ads-300x250.php:147
+#: includes/widgets/widget-gmap.php:144 includes/widgets/widget-google.php:121
+#: includes/widgets/widget-portfolio-random.php:152
+#: includes/widgets/widget-social-icons.php:115
+#: includes/widgets/widget-facebook.php:109
+#: includes/widgets/widget-testimonials.php:214
+#: includes/widgets/widget-most-liked-posts.php:142
+#: includes/widgets/widget-recent-comments.php:136
+#: includes/widgets/widget-portfolio.php:152
+#: includes/widgets/widget-latest-posts-simple.php:167
+#: includes/widgets/widget-contact-info.php:135
+#: includes/widgets/widget-most-commented-posts.php:141
+#: includes/widgets/widget-latest-posts.php:170
+msgid "Title:"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:30
+msgid ""
+"To keep this topic as the lead, go to the other topic and use the merge tool "
+"from there instead."
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:454
+msgid "To the top"
+msgstr ""
+
+#: admin/theme-options-dependency.php:153
+#: admin/theme-options-dependency.php:195
+msgid "Top Border Effect"
+msgstr ""
+
+#: admin/theme-options-dependency.php:169
+#: admin/theme-options-dependency.php:211
+msgid "Top Border Effect 2"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:236
+#: admin/metaboxes/meta-general-settings.php:283
+#: admin/metaboxes/meta-contact-page-settings.php:103
+msgid "Top To Bottom"
+msgstr ""
+
+#: bbpress/loop-topics.php:19
+msgid "Topic"
+msgstr ""
+
+#: bbpress/form-topic-merge.php:65 bbpress/form-topic-split.php:69
+msgid "Topic Extras"
+msgstr ""
+
+#: bbpress/form-topic.php:65
+#, php-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr ""
+
+#: bbpress/form-topic.php:116
+msgid "Topic Type:"
+msgstr ""
+
+#: bbpress/form-topic.php:76
+msgid "Topic:"
+msgstr ""
+
+#: bbpress/loop-forums.php:20
+msgid "Topics"
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-layout-settings.php:31
+msgid "Total Fullwidth"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:583
+#: includes/gallery/class-highend-gallery.php:692
+msgid "Total Items"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:70
+msgid "Total:"
+msgstr ""
+
+#: functions/template-parts.php:1577
+msgid "Type and press Enter to search"
+msgstr ""
+
+#: functions/template-parts.php:1708
+msgid "Type keywords and press enter"
+msgstr ""
+
+#: bbpress/form-user-edit.php:132
+msgid "Type your new password again."
+msgstr ""
+
+#: functions/template-parts.php:1478
+msgid "Type your search again"
+msgstr ""
+
+#: options-framework/bootstrap.php:98
+msgid "Unauthorized function"
+msgstr ""
+
+#: page-templates/maintenance.php:41
+msgid "Under Construction | "
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:31
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again."
+msgstr ""
+
+#: hbframework/admin/utilities/class-demo-importer.php:598
+msgid "Unserialize customizer.txt error."
+msgstr ""
+
+#: options-framework/classes/option.php:394
+msgid "Unverified Access"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:450
+msgid "Up one"
+msgstr ""
+
+#: bbpress/form-topic-tag.php:45 woocommerce/cart/shipping-calculator.php:96
+#: hbframework/admin/pages/class-install-plugins-page.php:352
+#: hbframework/admin/pages/class-install-plugins-page.php:373
+#: hbframework/admin/pages/class-install-plugins-page.php:399
+msgid "Update"
+msgstr ""
+
+#: woocommerce/cart/cart.php:147
+msgid "Update Cart"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:584
+msgid "Update Client Category"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:520
+msgid "Update FAQ Category"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:158
+msgid "Update Gallery Category"
+msgstr ""
+
+#: hbframework/admin/pages/class-install-plugins-page.php:262
+msgid "Update Now"
+msgstr ""
+
+#: includes/portfolio/class-highend-portfolio.php:162
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: bbpress/form-user-edit.php:174
+msgid "Update Profile"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:616
+msgid "Update Team Member Category"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:552
+msgid "Update Testimonial Category"
+msgstr ""
+
+#: hbframework/integrations.php:160
+msgid "Update through Highend Plugins"
+msgstr ""
+
+#: bbpress/form-user-edit.php:174
+msgid "Update User"
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:57
+msgid ""
+"Upload a background image for this slide. Suggested dimensions are "
+"1920x1080p."
+msgstr ""
+
+#: admin/metaboxes/meta-misc-settings.php:76
+msgid ""
+"Upload an alternative logo for this page. This will replace the default logo "
+"set in the Theme Options"
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-settings.php:73
+msgid ""
+"Upload an image different from the default Featured image. This one will "
+"show on your portfolio item page."
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:106
+msgid ""
+"Upload an image different from the default image set in the Theme Options. "
+msgstr ""
+
+#: admin/metaboxes/meta-background-settings.php:41
+msgid "Upload an image for your background."
+msgstr ""
+
+#: admin/metaboxes/meta-testimonials.php:27
+msgid "Upload an image of your author."
+msgstr ""
+
+#: admin/metaboxes/meta-blog-fw-page-settings.php:39
+msgid "Upload an image to display behind the blog posts. "
+msgstr ""
+
+#: admin/metaboxes/meta-contact-page-settings.php:22
+msgid "Upload an image which will be shown behind the contact form. "
+msgstr ""
+
+#: admin/metaboxes/meta-clients-settings.php:14
+msgid "Upload an the client logo. "
+msgstr ""
+
+#: admin/metaboxes/meta-contact-page-settings.php:21
+msgid "Upload Image"
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:79
+msgid "Upload your video in MP4 format."
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:91
+msgid "Upload your video in WEBM format."
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:235
+msgid "URL"
+msgstr ""
+
+#: admin/metaboxes/meta-clients-settings.php:19
+msgid "URL to Clients Website (optional)"
+msgstr ""
+
+#: bbpress/form-topic-split.php:49
+msgid "Use an existing topic in this forum:"
+msgstr ""
+
+#: admin/metaboxes/meta-general-settings.php:18
+#: admin/metaboxes/meta-general-settings.php:53
+#: admin/metaboxes/meta-layout-settings.php:27
+#: admin/metaboxes/meta-layout-settings.php:80
+#: admin/metaboxes/meta-layout-settings.php:101
+#: admin/metaboxes/meta-layout-settings.php:122
+#: admin/metaboxes/meta-misc-settings.php:24
+#: admin/metaboxes/meta-team-layout-settings.php:23
+#: admin/metaboxes/meta-team-layout-settings.php:48
+#: admin/metaboxes/meta-portfolio-layout-settings.php:27
+#: admin/metaboxes/meta-portfolio-layout-settings.php:52
+#: admin/metaboxes/meta-portfolio-layout-settings.php:77
+#: admin/metaboxes/meta-background-settings.php:12
+msgid "Use Highend Options Settings"
+msgstr ""
+
+#: admin/metaboxes/meta-misc-settings.php:47
+msgid "Use One Page menu for Mobile Menu?"
+msgstr ""
+
+#: hbframework/hooks.php:69
+msgid "Use this icon"
+msgstr ""
+
+#: hbframework/menu-walker/class-hb-custom-walker-edit.php:383
+msgid "Use this image"
+msgstr ""
+
+#: hbframework/admin/pages/class-sidebar-manager-page.php:207
+msgid ""
+"Use this section to create sidebars that you can use on different pages. "
+"Populate sidebars with widgets in "
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:1566
+#, php-format
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: includes/login-form.php:9 bbpress/form-user-login.php:17
+#: bbpress/form-user-edit.php:99 template-parts/misc/login-form.php:16
+msgid "Username"
+msgstr ""
+
+#: bbpress/form-user-lost-pass.php:18
+msgid "Username or Email"
+msgstr ""
+
+#: bbpress/form-user-edit.php:101
+msgid "Usernames cannot be changed."
+msgstr ""
+
+#: options-framework/classes/option.php:47
+#: options-framework/classes/option.php:48
+msgid "Vafpress Options"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/key-value.php:26
+msgid "Value"
+msgstr ""
+
+#: options-framework/config/messages.php:13
+msgid "Value needs to be Alphabet"
+msgstr ""
+
+#: options-framework/config/messages.php:14
+msgid "Value needs to be Alphanumeric"
+msgstr ""
+
+#: options-framework/config/messages.php:15
+msgid "Value needs to be Numeric"
+msgstr ""
+
+#: options-framework/config/messages.php:16
+msgid "Value needs to be Valid Email"
+msgstr ""
+
+#: options-framework/config/messages.php:17
+msgid "Value needs to be Valid URL"
+msgstr ""
+
+#: config/customizer/customizer.php:649
+msgid "Various Borders Color"
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:73
+msgid "version "
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:130 includes/hb-woocommerce.php:453
+msgid "Very poor"
+msgstr ""
+
+#: admin/metaboxes/meta-portfolio-settings.php:56
+#: admin/metaboxes/meta-presentation-settings.php:36
+msgid "Video"
+msgstr ""
+
+#: admin/metaboxes/meta-featured-page-section.php:90
+#: admin/metaboxes/meta-portfolio-settings.php:83
+#: admin/metaboxes/meta-post-format-settings.php:13
+msgid "Video Link"
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:78
+msgid "Video MP4"
+msgstr ""
+
+#: admin/metaboxes/meta-post-format-settings.php:8
+msgid "Video Post Format"
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:90
+msgid "Video WEBM"
+msgstr ""
+
+#: functions/template-parts.php:984
+#, php-format
+msgid "View all %s items"
+msgstr ""
+
+#: functions/template-parts.php:975
+msgid "View all items"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:353
+msgid "View Client"
+msgstr ""
+
+#: woocommerce/content-product.php:164 woocommerce/content-product.php:169
+msgid "View Details"
+msgstr ""
+
+#: template-parts/misc/author-info.php:60
+msgid "View entries by"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:392
+msgid "View FAQ Item"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:101
+msgid "View Gallery Item"
+msgstr ""
+
+#: woocommerce/content-product.php:160
+msgid "View options"
+msgstr ""
+
+#: includes/portfolio/class-highend-portfolio.php:103
+msgid "View Portfolio Item"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:433
+msgid "View Pricing Table"
+msgstr ""
+
+#: includes/team-related-items.php:69 functions/template-parts.php:257
+msgid "View Profile"
+msgstr ""
+
+#: includes/hb-woocommerce.php:336 includes/hb-woocommerce.php:408
+msgid "View shopping cart"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:312
+msgid "View Team Member"
+msgstr ""
+
+#: includes/core/class-highend-theme-setup.php:473
+msgid "View Testimonial"
+msgstr ""
+
+#: template-parts/misc/login-form.php:44
+msgid "View your dashboard"
+msgstr ""
+
+#: bbpress/form-forum.php:118
+msgid "Visibility:"
+msgstr ""
+
+#: includes/gallery/class-highend-gallery.php:676
+msgid "Visible items"
+msgstr ""
+
+#: bbpress/form-user-edit.php:57
+msgid "Website"
+msgstr ""
+
+#: bbpress/form-anonymous.php:32 includes/widgets/widget-contact-info.php:157
+msgid "Website:"
+msgstr ""
+
+#: bbpress/bbpress-functions.php:491
+msgid "week"
+msgstr ""
+
+#: bbpress/bbpress-functions.php:491
+msgid "weeks"
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:73
+msgid "Welcome to"
+msgstr ""
+
+#: bbpress/form-topic-split.php:29
+msgid ""
+"When you split a topic, you are slicing it in half starting with the reply "
+"you just selected. Choose to use that reply as a new topic with a new title, "
+"or merge those replies into an existing topic."
+msgstr ""
+
+#: hbframework/admin/utilities/class-sidebar-manager.php:250
+msgid "Widget already exists"
+msgstr ""
+
+#: hbframework/admin/utilities/class-sidebar-manager.php:216
+msgid "Widget area does not exist in theme (using Inactive)"
+msgstr ""
+
+#: hbframework/admin/utilities/class-sidebar-manager.php:188
+msgid "Widget import data is not an array."
+msgstr ""
+
+#: hbframework/admin/pages/class-demo-importer-page.php:247
+msgid "Widgets"
+msgstr ""
+
+#: hbframework/admin/utilities/class-demo-importer.php:390
+msgid "Widgets import failed."
+msgstr ""
+
+#: hbframework/admin/utilities/class-demo-importer.php:392
+msgid "Widgets import failed. Import file sidebars.txt not found."
+msgstr ""
+
+#: hbframework/admin/utilities/class-demo-importer.php:406
+msgid "Widgets import failed. Sidebar import file corrupt."
+msgstr ""
+
+#: admin/metaboxes/meta-presentation-settings.php:16
+msgid "Will be used for hash links. Must be UNIQUE."
+msgstr ""
+
+#: admin/metaboxes/meta-team-layout-settings.php:31
+#: admin/metaboxes/meta-portfolio-layout-settings.php:60
+msgid "With Meta Details Sidebar"
+msgstr ""
+
+#: admin/metaboxes/meta-team-layout-settings.php:35
+#: admin/metaboxes/meta-portfolio-layout-settings.php:64
+msgid "With Widget Area Sidebar"
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:180
+msgid "WordPress experts at your side."
+msgstr ""
+
+#: admin/metaboxes/meta-team-layout-settings.php:96
+#: admin/metaboxes/meta-portfolio-layout-settings.php:119
+msgid "WordPress Sidebar"
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:190
+msgid "WP Live"
+msgstr ""
+
+#: hbframework/admin/pages/class-about-page.php:191
+msgid ""
+"WP Live connects you with passionate WordPress experts who will <strong>"
+"teach you how to build, grow, and maintain your website.</strong>"
+msgstr ""
+
+#: bbpress/bbpress-functions.php:489
+msgid "year"
+msgstr ""
+
+#: functions/common.php:344
+#, php-format
+msgid "Yearly Archive for %s"
+msgstr ""
+
+#: bbpress/bbpress-functions.php:489
+msgid "years"
+msgstr ""
+
+#: includes/widgets/widget-ads-300x250.php:155
+#: admin/metaboxes/meta-box-master/inc/fields/checkbox.php:82
+msgid "Yes"
+msgstr ""
+
+#: functions/template-parts.php:2101
+msgid "You also might be interested in"
+msgstr ""
+
+#: bbpress/feedback-logged-in.php:13
+msgid "You are already logged in."
+msgstr ""
+
+#: template-parts/misc/login-form.php:42
+msgid "You are logged in as"
+msgstr ""
+
+#: bbpress/user-subscriptions.php:34
+msgid "You are not currently subscribed to any topics."
+msgstr ""
+
+#: bbpress/form-forum.php:178
+msgid "You cannot create new forums at this time."
+msgstr ""
+
+#: bbpress/form-topic.php:206
+msgid "You cannot create new topics at this time."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:103 bbpress/form-topic-split.php:107
+msgid "You cannot edit this topic."
+msgstr ""
+
+#: bbpress/form-reply.php:173
+msgid "You cannot reply to this topic."
+msgstr ""
+
+#: bbpress/user-favorites.php:30
+msgid "You currently have no favorite topics."
+msgstr ""
+
+#: hbframework/admin/pages/class-sidebar-manager-page.php:187
+msgid "You do not appear to have any sidebars yet."
+msgstr ""
+
+#: bbpress/bbpress-functions.php:299 bbpress/bbpress-functions.php:367
+#: bbpress/bbpress-functions.php:435
+msgid "You do not have permission to do this."
+msgstr ""
+
+#: hbframework/admin/utilities/class-demo-importer.php:160
+msgid "You do not have permission to import a demo."
+msgstr ""
+
+#: bbpress/feedback-no-access.php:16
+msgid "You do not have permission to view this forum."
+msgstr ""
+
+#: bbpress/form-topic-merge.php:103 bbpress/form-topic-split.php:107
+msgid "You do not have the permissions to edit this topic!"
+msgstr ""
+
+#: bbpress/user-topics-created.php:30
+msgid "You have not created any topics."
+msgstr ""
+
+#: includes/widgets/widget-twitter.php:200
+msgid ""
+"You have to fill in your Twitter Info in Highend Options > Social Links > "
+"Twitter API Settings, in order to authenticate."
+msgstr ""
+
+#: functions/theme-likes.php:58 functions/theme-likes.php:79
+msgid "You like this."
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:27
+msgid "You may also like"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/file.php:24
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: admin/metaboxes/meta-box-master/inc/fields/file.php:25
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: bbpress/form-reply.php:73 bbpress/form-forum.php:91
+#: bbpress/form-topic.php:91
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+
+#. %s opening and closing link tags respectively
+#: woocommerce/single-product-reviews.php:120
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: comments.php:74
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: bbpress/form-forum.php:178
+msgid "You must be logged in to create new forums."
+msgstr ""
+
+#: bbpress/form-topic.php:206
+msgid "You must be logged in to create new topics."
+msgstr ""
+
+#: bbpress/form-reply.php:173
+msgid "You must be logged in to reply to this topic."
+msgstr ""
+
+#: bbpress/form-reply.php:42 bbpress/form-forum.php:53
+#: bbpress/form-topic.php:51
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr ""
+
+#: includes/hb-woocommerce.php:432
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: functions/template-parts.php:1130
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions/template-functions.php:278
+msgid "Your email address *"
+msgstr ""
+
+#: bbpress/form-anonymous.php:17
+msgid "Your information:"
+msgstr ""
+
+#: template-parts/misc/quick-contact-form.php:30
+#: template-parts/misc/special-contact-form.php:23
+msgid "Your message..."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:124 includes/hb-woocommerce.php:447
+msgid "Your rating"
+msgstr ""
+
+#: functions/template-functions.php:274
+msgid "Your real name *"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:134
+msgid "Your review"
+msgstr ""
+
+#: includes/hb-woocommerce.php:444
+msgid "Your review *"
+msgstr ""
+
+#: functions/template-functions.php:282
+msgid "Your website URL"
+msgstr ""
+
+#: hbframework/vendor/importer/class-wxr-importer.php:1811
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/widgets/widget-gmap.php:153
+msgid "Zoom Level"
+msgstr ""
